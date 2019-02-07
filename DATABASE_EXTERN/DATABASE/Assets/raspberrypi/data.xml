@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdm xmlns="https://www.w3.org/2005/Incubator/omm/elements/1.0/" xmlns:omm="https://www.w3.org/2005/Incubator/omm/elements/1.0/">
+
+<omm:header>
+
+    <omm:version>1.0</omm:version>
+    <omm:primaryID omm:type="url">http://localhost:5000/roboterarm/data/info_roboterarm.xml</omm:primaryID>
+
+    <omm:additionalBlocks omm:type="omm_http">http://www.w3.org/2005/Incubator/omm/samples/p1/ext</omm:additionalBlocks>
+
+</omm:header>
+
+<!-- Orientierung an: https://www.w3.org/2005/Incubator/omm/XGR-omm-20111026/ -->
+
+<omm:block omm:id="viewImage">
+
+  <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+  <omm:title xml:lang="de">Bild des Raspberry</omm:title>
+
+	<omm:creation>
+		<omm:creator omm:type="duns">Vladimir Kutscher</omm:creator>
+		<omm:date omm:encoding="ISO8601">2017-06-19T08:02:00+01:00</omm:date>
+	</omm:creation>
+
+  <omm:link omm:type="url">data/images/sideview_left.png</omm:link>
+
+	<omm:payload omm:encoding="base64">Payload - viewImage-Block </omm:payload>
+
+</omm:block>
+
+<omm:block omm:id="block_11111">
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:title xml:lang="en">access authorization</omm:title>
+    <omm:title xml:lang="de">Zugriffsberechtigungen</omm:title>
+
+	<omm:creation>
+		<omm:creator omm:type="duns">123456789</omm:creator>
+		<omm:date omm:encoding="ISO8601">2016-08-25T14:30:00+01:00</omm:date>
+	</omm:creation>
+
+	<omm:contribution>
+		<omm:contributor omm:type="email">user@example.com</omm:contributor>
+		<omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+	</omm:contribution>
+
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+
+    <omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">application/xml</omm:format>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+	<omm:subject>
+		<omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+		<omm:tag omm:type="ontology" omm:value="http://www.w3.org/ontologies/v1/phase.owl#Production"/>
+		<omm:tag omm:type="text" omm:value="ingredients"/>
+		<omm:tag omm:type="text" omm:value="norms">
+			<omm:tag omm:type="text" omm:value="din">
+				<omm:tag omm:type="text" omm:value="e12"/>
+        		</omm:tag>
+		</omm:tag>
+	</omm:subject>
+	<omm:payload omm:encoding="base64">Liste der Zugriffsberechtigungen und Zugriffe mit Datum</omm:payload>
+
+ <omm:link omm:type="url">URL2Block</omm:link>
+
+</omm:block>
+
+
+<omm:block omm:id="block_22222">
+
+    <omm:title xml:lang="en">calculation</omm:title>
+    <omm:title xml:lang="de">Berechnung</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+
+    <omm:link omm:type="url">22222</omm:link>
+
+    <omm:payload omm:encoding="base64">
+      <Beispiel>Hier ist Platz für eine ausgedehnte XML-Struktur</Beispiel>
+    </omm:payload>
+ <!-- <omm:link omm:type="url">URL3Block</omm:link> -->
+
+</omm:block>
+
+<omm:block omm:id="gui">
+
+    <omm:title xml:lang="en">calculation</omm:title>
+    <omm:title xml:lang="de">Berechnung</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+
+    <omm:link omm:type="url">gui_link</omm:link>
+
+    <omm:payload omm:encoding="base64">
+      <![CDATA[<!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <script src="../static/bootstrap/js/jquery-1.9.1.js"></script>
+          <script src="../static/bootstrap/js/bootstrap.min.js"></script>
+          <link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css">
+      <body>
+
+      <h1>
+        Indexseite
+      </h1>
+
+      <script src="static/bootstrap/js/jquery-1.9.1.js"></script>
+
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active" style="text-align: center">
+            <h1 style:"text-align:center">Willkommen beim Roboterarm!</h1>
+            </br>
+            </br>
+            </br>
+          </div>
+
+          <div class="item" style="text-align: center">
+            <h1 style:"text-align:center">Installieren Sie Beliebige Apps!</h1>
+            </br>
+            </br>
+            </br>
+          </div>
+
+          <div class="item" style="text-align: center">
+            <h1 style:"text-align:center">Besuchen Sie unsere Datenbanken!</h1>
+            </br>
+            </br>
+            </br>
+          </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title"> Information: Roboterarm Nr. 1 </h3>
+        </div>
+        <div class ="panel-body"
+          <div class="media">
+            <div class="media-left media-middle">
+              <a>
+                <img class="media-object" src= "../static/images/sideview_left.png" alt="Ansicht konnte nicht geladen werden.">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Herstellerangaben: </h4>
+              <p>
+                Herstellerfirma: KAKA GmbH </br>
+                Hergestellt am: gerade gestern. </br>
+                Bildname:
+                Pfad zum Bild:
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      </body>
+      </html>]]>
+    </omm:payload>
+ <!-- <omm:link omm:type="url">URL3Block</omm:link> -->
+
+</omm:block>
+
+</mdm>

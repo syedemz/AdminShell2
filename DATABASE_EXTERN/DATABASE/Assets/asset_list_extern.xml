@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assetList>
+
+  <asset id="roboterarm">
+    <name xml:lang="de">Roboterarm</name>
+    <thumbnail>/static/sideview_left_320x200.png</thumbnail>
+    <shortInfo>Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion</shortInfo>
+  </asset>
+
+  <asset id="Raspberry-Pi">
+    <name xml:lang="de">Raspberry-Pi</name>
+    <thumbnail>/static/raspberry-pi_360x240.png</thumbnail>
+    <shortInfo>Der Raspberry Pi ist ein Einplatinencomputer, der von der britischen Raspberry Pi Foundation entwickelt wurde. Der Rechner enthält ein Ein-Chip-System von Broadcom mit einem ARM-Mikroprozessor, die Grundfläche der Platine entspricht etwa den Abmessungen einer Kreditkarte.</shortInfo>
+  </asset>
+
+  <asset id="robotergreifer">
+    <name xml:lang="de">Robotergreifer</name>
+    <thumbnail>/static/robotergreifer_360x240.jpg</thumbnail>
+    <shortInfo>Der Robotergreifer ist ein 3D-gedrucktes Bauteil, mihilfe dessen der Roboterarm mit der Umwelt interagieren kann. Angetrieben wird der Greifen durch einen Modell-Servomotor.</shortInfo>
+  </asset>
+
+</assetList>

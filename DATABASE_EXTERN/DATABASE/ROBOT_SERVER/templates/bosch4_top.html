@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!-- Meta, title, CSS, favicons, etc. -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Remote Maintenance</title>
+
+		<!-- #################  CSS-->
+		<!-- Bootstrap -->
+		<link href="../static/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+		<!-- #################  JavaScript-->
+		<!-- jQuery -->
+		<script src="../static/jquery/dist/jquery.min.js"></script>
+
+		<!-- p5-js library for robot control  -->
+		<script src="../static/p5/p5.js"></script>
+
+		<!-- own developped js library for robot control  -->
+		<script src="../static/robot/robot_top.js"></script>
+
+	</head>
+	<body>
+
+		<!-- main page content -->
+		<div class="right_col" align="left">
+			<div>
+				<a href="bosch4.html" class="btn btn-primary"> Robot Side View </a>
+				<a href="bosch4_top.html"  class="btn btn-primary active"> Robot Top View </a>
+				<a href="bosch4_grab.html"  class="btn btn-primary"> Robot Grab </a>
+				<button onclick="control_start()" class="btn btn-success ">
+					Start
+				</button>
+				<button onclick="control_stop()" class="btn btn-danger ">
+					Stop
+				</button>
+				<a href="http://127.0.0.1:5000/GUI/roboterarm/adds"  class="btn btn-primary  active"> Back to Adds </a>
+				<script>
+					function control_stop() {
+						var robot_control_stop = new XMLHttpRequest();
+						robot_control_stop.onreadystatechange = function() {
+							if (this.readyState == 4 && this.status == 200) {
+							}
+						};
+						robot_control_stop.open("GET", "control_stop", true);
+						robot_control_stop.send();
+					}
+
+					function control_start() {
+						var robot_control_start_command = new XMLHttpRequest();
+						robot_control_start_command.onreadystatechange = function() {
+							if (this.readyState == 4 && this.status == 200) {
+							}
+						};
+						robot_control_start_command.open("GET", "control_start_command", true);
+						robot_control_start_command.send();
+						var robot_control_start = new XMLHttpRequest();
+						robot_control_start.onreadystatechange = function() {
+							if (this.readyState == 4 && this.status == 200) {
+							}
+						};
+						robot_control_start.open("GET", "control_start", false);
+						robot_control_start.send();
+						location.reload();
+
+					}
+
+				</script>
+			</div>
+			<br>
+
+			<div id="robot_top"  style="text-align:center; float:left"></div>
+		</div>
+		<!-- <div>
+			<p>
+				b1:<span id="b1_out"></span>°
+			</p>
+			<p>
+				b0:<span id="b0"></span>°
+			</p>
+		</div>-->
+
+		<!-- / main page content -->
+
+	</body>
+</html>

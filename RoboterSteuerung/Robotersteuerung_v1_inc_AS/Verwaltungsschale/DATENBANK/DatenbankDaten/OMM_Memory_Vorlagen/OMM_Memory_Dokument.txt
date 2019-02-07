@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdm xmlns="https://www.w3.org/2005/Incubator/omm/elements/1.0/" xmlns:omm="https://www.w3.org/2005/Incubator/omm/elements/1.0/">
+
+<omm:header>
+    <omm:version>1.0</omm:version>
+    <omm:primaryID omm:type="url">???</omm:primaryID>
+</omm:header>
+
+
+<omm:toc>
+
+  <omm:element omm:id="00000">
+		
+    <omm:title xml:lang="en">Basic Data</omm:title>
+    <omm:title xml:lang="de">Basisdaten</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">???</omm:creator>
+      <omm:date omm:encoding="ISO8601">!!!</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">???</omm:description>
+    <omm:description xml:lang="de">???</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="ID: ???"/>
+    </omm:subject>
+	
+  </omm:element>
+
+</omm:toc>
+
+
+<omm:block omm:id="00000">
+		
+    <omm:title xml:lang="en">Basic Data</omm:title>
+    <omm:title xml:lang="de">Basisdaten</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">???</omm:creator>
+      <omm:date omm:encoding="ISO8601">!!!</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">???</omm:description>
+    <omm:description xml:lang="de">???</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="ID: ???"/>
+    </omm:subject>
+	
+    <omm:payload omm:encoding="base64">???</omm:payload>
+	
+</omm:block>
+
+</mdm>

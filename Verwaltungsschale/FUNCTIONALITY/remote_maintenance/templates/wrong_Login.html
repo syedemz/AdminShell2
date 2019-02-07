@@ -1,0 +1,33 @@
+<html>
+
+	<head>
+		<title>Remote Maintenance Platform</title>
+		<!-- Bootstrap
+		<script src="{{ url_for('static', filename='bootstrap/dist/js/bootstrap.min.js') }}"></script>-->
+		<!-- jQuery
+		<script src="{{ url_for('static', filename='jquery/dist/jquery.min.js') }}"></script>-->
+		<!-- Bootstrap -->
+		<link href="{{ url_for('static', filename='bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet" type=text/css>
+
+		<link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style.css') }}">
+	</head>
+
+	<body>
+		<div id="container">
+			<div class="title">
+				<h1>Remote Maintenance Platform</h1>
+			</div>
+			<div id="content">
+				<strong>{{username}}</strong>
+				<p></br></p>
+				<form method="get" action="/">
+					<button type="submit" class="btn btn-primary">
+						Try again
+					</button>
+				</form>
+			</div>
+
+		</div>
+	</body>
+
+</html>

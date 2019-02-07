@@ -1,0 +1,1819 @@
+2017-11-24 15:26:08,679 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f504059b6a8>]
+   
+</>
+2017-11-24 15:26:08,724  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:26:09,047 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:26:09,051 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:26:09,054 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:26:09,056 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:26:09,058 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:26:09,064 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:26:09,064 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f44c15e39a8>]
+   
+</>
+2017-11-24 15:31:42,444 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f453444a6a8>]
+   
+</>
+2017-11-24 15:31:42,470  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:31:42,724 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:31:42,725 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:31:42,728 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:31:42,729 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:31:42,732 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:31:42,733 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:31:42,737 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f354a5a1948>]
+   
+</>
+2017-11-24 15:33:44,466 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f3ef2e4a6a8>]
+   
+</>
+2017-11-24 15:33:44,872 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:33:44,874 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:33:44,877 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:33:44,881 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:33:44,882 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:33:44,882 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:33:44,886 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa458573948>]
+   
+</>
+2017-11-24 15:34:28,410 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   
+</>
+2017-11-24 15:34:28,434  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:34:28,646 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:34:28,647 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:34:28,650 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:34:28,652 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:34:28,655 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:34:28,657 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:34:28,659 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:35:05,037 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'gui', b'httpin', b'{"module_version": "v1", "request": "GET", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:35:05,038 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"module_version": "v1", "request": "GET", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:35:05,038 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:35:05,039 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:35:05,099 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:35:05,116 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:35:05,190 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:05,238 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:35:05,420 127.0.0.1 - - [24/Nov/2017 15:35:05] "GET / HTTP/1.1" 200 -
+2017-11-24 15:35:05,738 127.0.0.1 - - [24/Nov/2017 15:35:05] "GET /static/placeholder_header_blue.png HTTP/1.1" 200 -
+2017-11-24 15:35:05,752 127.0.0.1 - - [24/Nov/2017 15:35:05] "GET /static/avatar.jpg HTTP/1.1" 200 -
+2017-11-24 15:35:06,056 127.0.0.1 - - [24/Nov/2017 15:35:06] "GET /static/fav.ico HTTP/1.1" 200 -
+2017-11-24 15:35:12,969 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "index"}']
+</>
+2017-11-24 15:35:12,970 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "index"}']
+</>
+2017-11-24 15:35:12,970 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getDataLeftView"}']
+</>
+2017-11-24 15:35:12,970 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getDataLeftView"}']
+</>
+2017-11-24 15:35:13,277 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": {"blockImage4": "iVBORw0KGgoAAAANSUhEUgAAAlgAAAH0CAYAAADhUFPUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAABEyFJREFUeNrsvQmcHFd1/3 ...
+</>
+2017-11-24 15:35:13,297 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": {"blockImage4": "iVBORw0KGgoAAAANSUhEUgAAAlgAAAH0CAYAAADhUFPUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAABEyFJREFUeNrsvQmcHFd1/3 ...
+</>
+2017-11-24 15:35:13,497 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:13,538 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:35:13,766 127.0.0.1 - - [24/Nov/2017 15:35:13] "GET /GUI/index HTTP/1.1" 200 -
+2017-11-24 15:35:15,238 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "data"}']
+</>
+2017-11-24 15:35:15,239 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "data"}']
+</>
+2017-11-24 15:35:15,239 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getBlockData"}']
+</>
+2017-11-24 15:35:15,240 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getBlockData"}']
+</>
+2017-11-24 15:35:15,244 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": "{\\"access authorization\\": {\\"blockTitle\\": \\"access authorization\\", \\"blockLink\\": \\"URL2Block\\", \\"blockCreator\\": \\"123456789\\", \\"blockCreatio ...
+</>
+2017-11-24 15:35:15,244 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": "{\\"access authorization\\": {\\"blockTitle\\": \\"access authorization\\", \\"blockLink\\": \\"URL2Block\\", \\"blockCreator\\": \\"123456789\\", \\"blockCreatio ...
+</>
+2017-11-24 15:35:15,272 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:15,287 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:35:15,386 127.0.0.1 - - [24/Nov/2017 15:35:15] "GET /GUI/data HTTP/1.1" 200 -
+2017-11-24 15:35:16,929 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:35:16,930 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:35:16,930 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:35:16,930 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:35:16,931 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"template\\": \\"http://127.0.0.1:40000\\", \\"title\\": \\"Remote Maintenance \\", \\"port\\": \\"6015\\", \\"identity\\": \\"remot ...
+</>
+2017-11-24 15:35:16,932 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"template\\": \\"http://127.0.0.1:40000\\", \\"title\\": \\"Remote Maintenance \\", \\"port\\": \\"6015\\", \\"identity\\": \\"remot ...
+</>
+2017-11-24 15:35:16,953 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:16,968 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:35:17,071 127.0.0.1 - - [24/Nov/2017 15:35:17] "GET /GUI/adds HTTP/1.1" 200 -
+2017-11-24 15:35:19,911 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:35:19,911 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:35:19,912 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'httpout', b'gui', b'{"ip_address": "http://127.0.0.1:50001", "request": "GET", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:35:19,913 
+<> HTTPOUT   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   [b'httpout', b'gui', b'{"ip_address": "http://127.0.0.1:50001", "request": "GET", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:35:19,926 Starting new HTTP connection (1): 127.0.0.1
+2017-11-24 15:35:26,912 
+<> HTTPIN   #No response within the timeout-time of: 7000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7f94b99d56a8>]
+   
+</>
+2017-11-24 15:35:26,913 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f94b6c5a2e8>]
+   
+</>
+2017-11-24 15:35:26,916 127.0.0.1 - - [24/Nov/2017 15:35:26] "GET /GUI/newAdd HTTP/1.1" 200 -
+2017-11-24 15:35:27,169 127.0.0.1 - - [24/Nov/2017 15:35:27] "GET /favicon.ico HTTP/1.1" 404 -
+2017-11-24 15:35:29,922 
+<> GUI   #No response within the timeout-time of: 10000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458b948>]
+   
+</>
+2017-11-24 15:35:29,922 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458bb88>]
+   
+</>
+2017-11-24 15:35:29,962 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7ff3c458bb88>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:38:23,252 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   
+</>
+2017-11-24 15:38:23,277  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:38:23,506 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:23,517 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:23,517 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:23,518 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:23,518 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:23,519 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:23,519 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:38:51,166 127.0.0.1 - - [24/Nov/2017 15:38:51] code 400, message Bad request version ('jjÀ+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+2017-11-24 15:38:51,166 127.0.0.1 - - [24/Nov/2017 15:38:51] " À  ¼j¨y"àNfzýQó³ïJ[¹ÎiâMoÇÍ  jjÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 " HTTPStatus.BAD_REQUEST -
+2017-11-24 15:38:51,167 127.0.0.1 - - [24/Nov/2017 15:38:51] code 400, message Bad request syntax ('\x16\x03\x01\x00À\x01\x00\x00¼\x03\x03 \x01\x8e¹°¦\xa0\x9fi.\x1b4â¶\x996{`\x8b\x87y|bØ]ï\x193÷j\x13\x91\x00\x00\x1c**À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+2017-11-24 15:38:51,167 127.0.0.1 - - [24/Nov/2017 15:38:51] " À  ¼ ¹°¦ i.4â¶6{`y|bØ]ï3÷j  **À+À/À,À0Ì©Ì¨ÀÀ   / 5 " HTTPStatus.BAD_REQUEST -
+2017-11-24 15:38:51,172 127.0.0.1 - - [24/Nov/2017 15:38:51] code 400, message Bad request version ('ººÀ+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+2017-11-24 15:38:51,172 127.0.0.1 - - [24/Nov/2017 15:38:51] " À  ¼°/~Ý¯¥©j0²n}} u¡XP>sí¬ôgV  ººÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 " HTTPStatus.BAD_REQUEST -
+2017-11-24 15:38:58,400 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   [b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:38:58,404 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:38:58,404 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:38:58,406 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:38:58,430 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:38:58,443 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:38:58,542 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:38:58,557 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:38:58,755 127.0.0.1 - - [24/Nov/2017 15:38:58] "GET / HTTP/1.1" 200 -
+2017-11-24 15:39:01,382 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:01,383 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:01,383 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:01,384 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:01,385 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:01,385 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:01,403 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:01,418 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:39:01,518 127.0.0.1 - - [24/Nov/2017 15:39:01] "GET /GUI/adds HTTP/1.1" 200 -
+2017-11-24 15:39:02,794 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:02,794 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:02,794 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:02,795 
+<> HTTPOUT   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:02,808 Starting new HTTP connection (1): 127.0.0.1
+2017-11-24 15:39:09,801 
+<> HTTPIN   #No response within the timeout-time of: 7000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7fbe833ed468>]
+   
+</>
+2017-11-24 15:39:09,802 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fbe823ccb28>]
+   
+</>
+2017-11-24 15:39:09,805 127.0.0.1 - - [24/Nov/2017 15:39:09] "GET /GUI/newAdd HTTP/1.1" 200 -
+2017-11-24 15:39:12,805 
+<> GUI   #No response within the timeout-time of: 10000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25f948>]
+   
+</>
+2017-11-24 15:39:12,806 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25fb28>]
+   
+</>
+2017-11-24 15:39:12,830 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25fb28>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:15,797 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fbe823ccb28>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:15,799 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25fb28>]
+   [b'\x00k\x8bEh', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:15,800 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f75ab25fb28>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:31,556 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   
+</>
+2017-11-24 15:39:31,577  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:39:31,836 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:31,838 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:31,839 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:31,841 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:31,842 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:31,843 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:31,845 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:40,254 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   [b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:39:40,255 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:39:40,256 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:39:40,257 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:39:40,284 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:39:40,301 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:39:40,386 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:40,421 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:39:40,636 127.0.0.1 - - [24/Nov/2017 15:39:40] "GET / HTTP/1.1" 200 -
+2017-11-24 15:39:42,229 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:42,229 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:42,229 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:42,230 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:42,231 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:42,232 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:42,255 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:42,270 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:39:42,371 127.0.0.1 - - [24/Nov/2017 15:39:42] "GET /GUI/adds HTTP/1.1" 200 -
+2017-11-24 15:39:46,912 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:46,913 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:46,913 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:46,914 
+<> HTTPOUT   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:46,922 Starting new HTTP connection (1): 127.0.0.1
+2017-11-24 15:39:53,920 
+<> HTTPIN   #No response within the timeout-time of: 7000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7fad13f7f468>]
+   
+</>
+2017-11-24 15:39:53,921 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fad12f5ea68>]
+   
+</>
+2017-11-24 15:39:53,925 127.0.0.1 - - [24/Nov/2017 15:39:53] "GET /GUI/newAdd HTTP/1.1" 200 -
+2017-11-24 15:39:56,924 
+<> GUI   #No response within the timeout-time of: 10000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7f963a73d9a8>]
+   
+</>
+2017-11-24 15:39:56,924 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f963a73db28>]
+   
+</>
+2017-11-24 15:39:56,956 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f963a73db28>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:02,281 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   
+</>
+2017-11-24 15:42:02,306  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:42:02,703 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:02,707 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:02,713 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:02,719 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:02,727 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:02,728 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:02,729 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:07,840 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   [b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:42:07,842 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:42:07,842 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:42:07,844 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:42:07,870 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:42:07,887 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:42:07,968 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:08,000 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:42:08,221 127.0.0.1 - - [24/Nov/2017 15:42:08] "GET / HTTP/1.1" 200 -
+2017-11-24 15:42:09,910 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:42:09,910 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:42:09,911 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:42:09,912 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:42:09,912 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:42:09,913 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:42:09,938 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:09,954 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:42:10,059 127.0.0.1 - - [24/Nov/2017 15:42:10] "GET /GUI/adds HTTP/1.1" 200 -
+2017-11-24 15:42:11,212 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:42:11,212 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:42:11,213 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:42:11,213 
+<> HTTPOUT   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:42:11,220 Starting new HTTP connection (1): 127.0.0.1
+2017-11-24 15:42:18,220 
+<> HTTPIN   #No response within the timeout-time of: 7000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7f2c6ec1c468>]
+   
+</>
+2017-11-24 15:42:18,221 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f2c6dbfba68>]
+   
+</>
+2017-11-24 15:42:18,224 127.0.0.1 - - [24/Nov/2017 15:42:18] "GET /GUI/newAdd HTTP/1.1" 200 -
+2017-11-24 15:42:21,223 
+<> GUI   #No response within the timeout-time of: 10000 milliseconds
+   [<zmq.sugar.socket.Socket object at 0x7fcea4cee9a8>]
+   
+</>
+2017-11-24 15:42:21,224 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fcea4ceeb28>]
+   
+</>
+2017-11-24 15:42:21,249 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fcea4ceeb28>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:08,385 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   
+</>
+2017-11-24 15:43:08,408  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 15:43:08,712 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:08,721 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:08,727 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:08,727 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:08,728 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:08,728 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:08,730 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   
+</>
+2017-11-24 15:43:13,703 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   [b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:43:13,704 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:43:13,704 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:43:13,705 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:43:13,729 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:43:13,749 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:43:13,848 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:13,880 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:43:14,139 127.0.0.1 - - [24/Nov/2017 15:43:14] "GET / HTTP/1.1" 200 -
+2017-11-24 15:43:16,251 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:43:16,251 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:43:16,252 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:43:16,252 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:43:16,253 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:43:16,253 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:43:16,277 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:16,294 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:43:16,390 127.0.0.1 - - [24/Nov/2017 15:43:16] "GET /GUI/adds HTTP/1.1" 200 -
+2017-11-24 15:43:17,857 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:43:17,860 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:43:17,860 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:5001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:43:17,861 
+<> HTTPOUT   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:5001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:43:17,866 Starting new HTTP connection (1): 127.0.0.1
+2017-11-24 15:43:17,877 http://127.0.0.1:5001 "GET /database/availableAdds HTTP/1.1" 200 2193
+2017-11-24 15:43:17,878 
+<> HTTPOUT   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'gui', b'httpout', b'{"response": "{\\"vlacs_empfaenger\\": {\\"identity\\": \\"vlacs_empfaenger\\", \\"title\\": \\"Empfaenger des Visiuell localisation and Control Programm\\", \\"info\\": \\"Empf ...
+</>
+2017-11-24 15:43:17,878 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'gui', b'httpout', b'{"response": "{\\"vlacs_empfaenger\\": {\\"identity\\": \\"vlacs_empfaenger\\", \\"title\\": \\"Empfaenger des Visiuell localisation and Control Programm\\", \\"info\\": \\"Empf ...
+</>
+2017-11-24 15:43:17,902 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fef7b1e99a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:17,914 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f62b2f02468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 15:43:18,015 127.0.0.1 - - [24/Nov/2017 15:43:18] "GET /GUI/newAdd HTTP/1.1" 200 -
+2017-11-24 16:17:34,118 
+<> HTTPIN   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f19bbd60468>]
+   
+</>
+2017-11-24 16:17:34,145  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-11-24 16:17:34,502 
+<> DATABASE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:34,505 
+<> INTERFACE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:34,506 
+<> HTTPOUT   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:34,510 
+<> MODULE_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:34,514 
+<> ASSET_INSTALLER   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:34,516 
+<> GUI   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:34,518 
+<> RESTART   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   
+</>
+2017-11-24 16:17:39,994 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f19bbd60468>]
+   [b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 16:17:39,996 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 16:17:39,997 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 16:17:39,998 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 16:17:40,023 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 16:17:40,042 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 16:17:40,125 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 16:17:40,160 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f19bbd60468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 16:17:40,362 127.0.0.1 - - [24/Nov/2017 16:17:40] "GET / HTTP/1.1" 200 -
+2017-11-24 16:17:42,376 
+<> HTTPIN   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f19bbd60468>]
+   [b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 16:17:42,377 
+<> GUI   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 16:17:42,377 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 16:17:42,378 
+<> DATABASE   #receive message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 16:17:42,379 
+<> DATABASE   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 16:17:42,379 
+<> GUI   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 16:17:42,405 
+<> GUI   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa3257a39a8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 16:17:42,420 
+<> HTTPIN   #receive message (with poller)
+   [<zmq.sugar.socket.Socket object at 0x7f19bbd60468>]
+   [b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license ...
+</>
+2017-11-24 16:17:42,518 127.0.0.1 - - [24/Nov/2017 16:17:42] "GET /GUI/adds HTTP/1.1" 200 -
+2017-11-24 16:18:37,549 
+<> REMOTE_MAINTENANCE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7fa9e2cfa3a8>]
+   
+</>
+2017-11-24 16:18:37,559  * Running on http://localhost:40000/ (Press CTRL+C to quit)
+2017-11-24 16:19:00,939 127.0.0.1 - - [24/Nov/2017 16:19:00] "GET / HTTP/1.1" 200 -
+2017-11-24 16:19:01,001 127.0.0.1 - - [24/Nov/2017 16:19:01] "GET /static/css/style.css HTTP/1.1" 200 -
+2017-11-24 16:19:01,394 127.0.0.1 - - [24/Nov/2017 16:19:01] "GET /favicon.ico HTTP/1.1" 404 -
+2017-11-24 16:19:17,336 127.0.0.1 - - [24/Nov/2017 16:19:17] "POST /robot_login.html HTTP/1.1" 200 -
+2017-11-24 16:19:17,374 127.0.0.1 - - [24/Nov/2017 16:19:17] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2017-11-24 16:19:17,401 127.0.0.1 - - [24/Nov/2017 16:19:17] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+2017-11-24 16:19:17,404 127.0.0.1 - - [24/Nov/2017 16:19:17] "GET /static/p5/p5.js HTTP/1.1" 200 -
+2017-11-24 16:19:17,414 127.0.0.1 - - [24/Nov/2017 16:19:17] "GET /static/robot/robot_side.js HTTP/1.1" 200 -
+2017-11-24 16:19:17,779 127.0.0.1 - - [24/Nov/2017 16:19:17] "GET /current_position HTTP/1.1" 200 -
+2017-11-24 16:19:21,886 127.0.0.1 - - [24/Nov/2017 16:19:21] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=1594 HTTP/1.1" 500 -
+2017-11-24 16:19:21,926 127.0.0.1 - - [24/Nov/2017 16:19:21] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=1605 HTTP/1.1" 500 -
+2017-11-24 16:19:21,944 127.0.0.1 - - [24/Nov/2017 16:19:21] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=1616 HTTP/1.1" 500 -
+2017-11-24 16:19:21,960 127.0.0.1 - - [24/Nov/2017 16:19:21] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=1674 HTTP/1.1" 500 -
+2017-11-24 16:19:21,985 127.0.0.1 - - [24/Nov/2017 16:19:21] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=1816 HTTP/1.1" 500 -
+2017-11-24 16:19:21,996 127.0.0.1 - - [24/Nov/2017 16:19:21] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=1933 HTTP/1.1" 500 -
+2017-11-24 16:19:22,010 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=2084 HTTP/1.1" 500 -
+2017-11-24 16:19:22,027 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=2287 HTTP/1.1" 500 -
+2017-11-24 16:19:22,044 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=2481 HTTP/1.1" 500 -
+2017-11-24 16:19:22,061 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=2725 HTTP/1.1" 500 -
+2017-11-24 16:19:22,077 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=2900 HTTP/1.1" 500 -
+2017-11-24 16:19:22,098 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=3028 HTTP/1.1" 500 -
+2017-11-24 16:19:22,118 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=3137 HTTP/1.1" 500 -
+2017-11-24 16:19:22,134 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=885&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:22,880 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=895&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:22,947 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=897&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:22,962 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=900&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:22,985 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=919&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:22,993 127.0.0.1 - - [24/Nov/2017 16:19:22] "GET /control?view=1&a0_1000=2693&a1_1000=938&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,010 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=960&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,026 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=981&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,044 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1007&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,060 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1048&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,079 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1103&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,094 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1167&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,119 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1244&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,127 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1322&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,149 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1397&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,162 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1492&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,179 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1562&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,198 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1640&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,222 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1717&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,232 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1798&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,243 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1898&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,260 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=1951&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,276 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2008&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,293 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2036&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,324 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2063&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,334 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2090&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,348 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2103&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,365 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2116&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:23,397 127.0.0.1 - - [24/Nov/2017 16:19:23] "GET /control?view=1&a0_1000=2693&a1_1000=2121&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,246 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2137&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,342 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2127&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,360 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2116&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,376 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2095&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,396 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2071&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,409 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2046&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,426 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2025&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,444 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=2007&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,474 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1990&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,484 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1965&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,501 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1943&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,513 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1929&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,529 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1911&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,545 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1892&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,562 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1875&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,579 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1857&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,595 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1832&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,611 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1796&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,627 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1769&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,644 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1737&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,660 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1693&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,678 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1655&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,710 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1628&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,730 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1606&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,750 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1583&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,763 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1571&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,776 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1565&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,796 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1553&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,810 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1542&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,826 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1534&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,846 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1525&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,859 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1519&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:28,876 127.0.0.1 - - [24/Nov/2017 16:19:28] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=3142 HTTP/1.1" 500 -
+2017-11-24 16:19:29,391 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=3087 HTTP/1.1" 500 -
+2017-11-24 16:19:29,445 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=3035 HTTP/1.1" 500 -
+2017-11-24 16:19:29,459 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=2985 HTTP/1.1" 500 -
+2017-11-24 16:19:29,475 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=2861 HTTP/1.1" 500 -
+2017-11-24 16:19:29,495 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=2675 HTTP/1.1" 500 -
+2017-11-24 16:19:29,509 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=2346 HTTP/1.1" 500 -
+2017-11-24 16:19:29,526 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=2038 HTTP/1.1" 500 -
+2017-11-24 16:19:29,544 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=1738 HTTP/1.1" 500 -
+2017-11-24 16:19:29,558 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=1459 HTTP/1.1" 500 -
+2017-11-24 16:19:29,576 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=1326 HTTP/1.1" 500 -
+2017-11-24 16:19:29,593 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=1196 HTTP/1.1" 500 -
+2017-11-24 16:19:29,612 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=1067 HTTP/1.1" 500 -
+2017-11-24 16:19:29,625 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=969 HTTP/1.1" 500 -
+2017-11-24 16:19:29,645 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=905 HTTP/1.1" 500 -
+2017-11-24 16:19:29,660 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=859 HTTP/1.1" 500 -
+2017-11-24 16:19:29,676 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=830 HTTP/1.1" 500 -
+2017-11-24 16:19:29,693 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=797 HTTP/1.1" 500 -
+2017-11-24 16:19:29,708 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=765 HTTP/1.1" 500 -
+2017-11-24 16:19:29,725 127.0.0.1 - - [24/Nov/2017 16:19:29] "GET /control?view=1&a0_1000=2693&a1_1000=1510&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,308 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1508&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,360 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1511&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,395 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1516&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,408 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1532&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,426 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1546&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,442 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1562&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,458 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1572&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,476 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1586&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,491 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1599&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,507 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1615&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,528 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1637&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,546 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1650&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,561 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1663&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,576 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1668&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,594 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1676&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,610 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1684&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,625 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1691&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,641 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1698&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,657 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1700&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,675 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1710&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,691 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1717&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,708 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1731&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,731 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1739&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:30,748 127.0.0.1 - - [24/Nov/2017 16:19:30] "GET /control?view=1&a0_1000=2693&a1_1000=1746&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,025 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1723&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,041 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1696&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,059 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1669&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,075 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1640&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,097 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1616&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,107 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1597&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,124 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1577&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,142 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1556&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,158 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1541&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,174 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1526&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,191 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1508&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,207 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1493&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,224 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1472&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,249 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1459&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,265 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1445&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,282 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1440&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,298 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1424&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,311 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1413&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,330 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1397&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,346 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1383&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,359 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1369&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,374 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1351&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,391 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1334&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,408 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1321&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,426 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1303&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,441 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1295&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,458 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1287&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,478 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1282&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,511 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1280&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,526 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1275&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,543 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1272&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,561 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1264&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,575 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1259&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,591 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1243&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,608 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1235&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,624 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1211&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,641 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1193&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,658 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1174&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,682 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1155&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,698 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1144&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,721 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1136&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,730 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1131&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:31,845 127.0.0.1 - - [24/Nov/2017 16:19:31] "GET /control?view=1&a0_1000=2693&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,675 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2720&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,690 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2718&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,706 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2714&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,724 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2702&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,740 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2689&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,757 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2685&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,773 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2674&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,791 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2666&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,807 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2656&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,824 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2638&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,840 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2628&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,857 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2614&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,876 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2606&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,894 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2604&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,914 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2599&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,926 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2589&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,947 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2576&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,961 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2565&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:32,998 127.0.0.1 - - [24/Nov/2017 16:19:32] "GET /control?view=1&a0_1000=2539&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,008 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2528&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,021 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2514&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,033 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2499&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,048 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2484&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,060 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2469&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,074 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2438&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,091 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2402&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,114 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2369&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,144 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2344&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,157 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2296&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,175 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2274&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,190 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2248&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,212 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2229&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,225 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2211&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,241 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2192&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,259 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2183&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,275 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2164&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,292 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2155&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,307 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2136&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,332 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2122&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,345 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2106&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,360 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2091&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,377 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2077&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,390 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2063&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,410 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2043&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,425 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2028&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,441 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2017&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,457 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=2005&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:33,473 127.0.0.1 - - [24/Nov/2017 16:19:33] "GET /control?view=1&a0_1000=1996&a1_1000=1128&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,610 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1133&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,710 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1140&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,724 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1147&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,740 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1157&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,758 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1168&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,774 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1178&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,790 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1191&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,807 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1200&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,826 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1207&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,840 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1216&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,858 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1223&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,875 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1229&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,894 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1236&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,908 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1246&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,924 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1255&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,941 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1268&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,957 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1280&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,975 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1289&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:34,990 127.0.0.1 - - [24/Nov/2017 16:19:34] "GET /control?view=1&a0_1000=1996&a1_1000=1304&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,007 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1316&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,023 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1331&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,042 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1342&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,057 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1356&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,074 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1368&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,090 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1376&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,109 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1384&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,126 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1393&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,141 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1405&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,158 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1420&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,174 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1428&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,190 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1443&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,207 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1454&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,226 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1466&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,240 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1477&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,259 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1495&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,275 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1505&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,292 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1522&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,307 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1534&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,326 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1547&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,342 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1559&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,357 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1576&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,373 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1585&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,392 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1593&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,407 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1600&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,424 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1604&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:35,440 127.0.0.1 - - [24/Nov/2017 16:19:35] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=740 HTTP/1.1" 500 -
+2017-11-24 16:19:36,108 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=710 HTTP/1.1" 500 -
+2017-11-24 16:19:36,208 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=732 HTTP/1.1" 500 -
+2017-11-24 16:19:36,224 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=776 HTTP/1.1" 500 -
+2017-11-24 16:19:36,239 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=874 HTTP/1.1" 500 -
+2017-11-24 16:19:36,255 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=993 HTTP/1.1" 500 -
+2017-11-24 16:19:36,272 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1115 HTTP/1.1" 500 -
+2017-11-24 16:19:36,289 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1159 HTTP/1.1" 500 -
+2017-11-24 16:19:36,305 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1182 HTTP/1.1" 500 -
+2017-11-24 16:19:36,331 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1223 HTTP/1.1" 500 -
+2017-11-24 16:19:36,373 127.0.0.1 - - [24/Nov/2017 16:19:36] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1245 HTTP/1.1" 500 -
+2017-11-24 16:20:07,461 127.0.0.1 - - [24/Nov/2017 16:20:07] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1238 HTTP/1.1" 500 -
+2017-11-24 16:20:07,678 127.0.0.1 - - [24/Nov/2017 16:20:07] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1268 HTTP/1.1" 500 -
+2017-11-24 16:20:07,697 127.0.0.1 - - [24/Nov/2017 16:20:07] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1327 HTTP/1.1" 500 -
+2017-11-24 16:20:07,715 127.0.0.1 - - [24/Nov/2017 16:20:07] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1363 HTTP/1.1" 500 -
+2017-11-24 16:20:07,745 127.0.0.1 - - [24/Nov/2017 16:20:07] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1393 HTTP/1.1" 500 -
+2017-11-24 16:20:11,393 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1521 HTTP/1.1" 500 -
+2017-11-24 16:20:11,527 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1530 HTTP/1.1" 500 -
+2017-11-24 16:20:11,544 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1590 HTTP/1.1" 500 -
+2017-11-24 16:20:11,561 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1661 HTTP/1.1" 500 -
+2017-11-24 16:20:11,578 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1711 HTTP/1.1" 500 -
+2017-11-24 16:20:11,594 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1742 HTTP/1.1" 500 -
+2017-11-24 16:20:11,711 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1760 HTTP/1.1" 500 -
+2017-11-24 16:20:11,828 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1742 HTTP/1.1" 500 -
+2017-11-24 16:20:11,844 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1705 HTTP/1.1" 500 -
+2017-11-24 16:20:11,861 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1686 HTTP/1.1" 500 -
+2017-11-24 16:20:11,877 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1654 HTTP/1.1" 500 -
+2017-11-24 16:20:11,894 127.0.0.1 - - [24/Nov/2017 16:20:11] "GET /control?view=1&a0_1000=1996&a1_1000=1607&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,345 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1614&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,445 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1616&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,460 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1625&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,479 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1636&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,495 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1658&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,510 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1679&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,527 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1698&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,544 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1712&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,566 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1731&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,581 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1746&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,596 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1761&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,615 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1773&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,628 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1789&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,646 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1802&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,663 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1823&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,677 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1839&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,693 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1847&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,710 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1852&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,728 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1860&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,743 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1871&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,760 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1882&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,777 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1902&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,794 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1913&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,810 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1930&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,828 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1947&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,843 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1962&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,861 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1977&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,885 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=1998&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,895 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=2004&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,912 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=2010&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,927 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=2013&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,942 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=2016&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,985 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=2019&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:12,997 127.0.0.1 - - [24/Nov/2017 16:20:12] "GET /control?view=1&a0_1000=1996&a1_1000=2021&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,011 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2025&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,027 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2028&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,047 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2037&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,063 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2043&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,078 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2055&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,093 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2065&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,110 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2080&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,127 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2098&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,143 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2129&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,160 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2163&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,177 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2203&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,195 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2232&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,213 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2254&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,228 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2275&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,244 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2283&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,262 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1622 HTTP/1.1" 500 -
+2017-11-24 16:20:13,993 127.0.0.1 - - [24/Nov/2017 16:20:13] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1689 HTTP/1.1" 500 -
+2017-11-24 16:20:14,079 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1646 HTTP/1.1" 500 -
+2017-11-24 16:20:14,093 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1604 HTTP/1.1" 500 -
+2017-11-24 16:20:14,111 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1544 HTTP/1.1" 500 -
+2017-11-24 16:20:14,128 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1485 HTTP/1.1" 500 -
+2017-11-24 16:20:14,144 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1405 HTTP/1.1" 500 -
+2017-11-24 16:20:14,161 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1387 HTTP/1.1" 500 -
+2017-11-24 16:20:14,176 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1325 HTTP/1.1" 500 -
+2017-11-24 16:20:14,193 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1247 HTTP/1.1" 500 -
+2017-11-24 16:20:14,214 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1201 HTTP/1.1" 500 -
+2017-11-24 16:20:14,226 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1156 HTTP/1.1" 500 -
+2017-11-24 16:20:14,243 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1083 HTTP/1.1" 500 -
+2017-11-24 16:20:14,260 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1054 HTTP/1.1" 500 -
+2017-11-24 16:20:14,279 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=1003 HTTP/1.1" 500 -
+2017-11-24 16:20:14,293 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=949 HTTP/1.1" 500 -
+2017-11-24 16:20:14,310 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=905 HTTP/1.1" 500 -
+2017-11-24 16:20:14,325 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=864 HTTP/1.1" 500 -
+2017-11-24 16:20:14,343 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=833 HTTP/1.1" 500 -
+2017-11-24 16:20:14,361 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:14,377 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=760 HTTP/1.1" 500 -
+2017-11-24 16:20:14,392 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=734 HTTP/1.1" 500 -
+2017-11-24 16:20:14,410 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=694 HTTP/1.1" 500 -
+2017-11-24 16:20:14,427 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=678 HTTP/1.1" 500 -
+2017-11-24 16:20:14,443 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=659 HTTP/1.1" 500 -
+2017-11-24 16:20:14,460 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=621 HTTP/1.1" 500 -
+2017-11-24 16:20:14,480 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=603 HTTP/1.1" 500 -
+2017-11-24 16:20:14,511 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=601 HTTP/1.1" 500 -
+2017-11-24 16:20:14,528 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=571 HTTP/1.1" 500 -
+2017-11-24 16:20:14,543 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=554 HTTP/1.1" 500 -
+2017-11-24 16:20:14,560 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=537 HTTP/1.1" 500 -
+2017-11-24 16:20:14,578 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=507 HTTP/1.1" 500 -
+2017-11-24 16:20:14,593 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=477 HTTP/1.1" 500 -
+2017-11-24 16:20:14,609 127.0.0.1 - - [24/Nov/2017 16:20:14] "GET /control?view=1&a0_1000=1996&a1_1000=2289&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,062 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2287&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,076 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2285&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,093 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2284&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,108 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2273&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,125 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2262&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,142 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2243&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,160 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2222&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,177 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2192&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,192 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2162&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,211 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2128&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,226 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2089&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,243 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2060&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,259 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=2026&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,275 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1999&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,292 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1973&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,309 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1957&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,329 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1938&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,343 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1919&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,359 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1898&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,377 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1877&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,392 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1856&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,408 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1837&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,426 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1824&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,442 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1810&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,461 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1803&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,475 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1798&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,496 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1787&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,512 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1771&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,526 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1758&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,544 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1745&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,560 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1727&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,579 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1715&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,592 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1697&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,608 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1680&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,627 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1665&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,642 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1652&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,659 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1642&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,677 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1632&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,693 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1619&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,710 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1617&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,731 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1609&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,744 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1606&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,761 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1603&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,779 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1601&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,796 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1587&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,809 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1582&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,826 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1565&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,843 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1552&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,859 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1536&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,877 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1518&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,892 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1496&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,909 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1475&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,940 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1454&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,958 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1432&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,982 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1403&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:16,992 127.0.0.1 - - [24/Nov/2017 16:20:16] "GET /control?view=1&a0_1000=1996&a1_1000=1389&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,008 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1996&a1_1000=1386&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,027 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1996&a1_1000=1382&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,042 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1996&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,843 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=2011&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,897 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=2007&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,909 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1994&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,926 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1970&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,942 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1938&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,958 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1895&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,983 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1837&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:17,991 127.0.0.1 - - [24/Nov/2017 16:20:17] "GET /control?view=1&a0_1000=1757&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,008 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1650&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,026 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1565&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,041 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1502&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,059 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1480&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,075 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1463&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,092 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1445&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,109 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1437&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,125 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1433&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,141 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1421&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,159 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1413&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,175 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1397&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,192 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1378&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,208 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1358&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,225 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1350&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,241 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1347&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,412 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1359&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,424 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1390&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,440 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1415&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,457 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1440&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,475 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1474&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,492 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1504&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,508 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1545&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,527 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1591&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,542 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1656&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,558 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1725&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,576 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1794&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,591 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1874&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,610 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=1947&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,625 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=2043&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,642 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=2108&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:18,659 127.0.0.1 - - [24/Nov/2017 16:20:18] "GET /control?view=1&a0_1000=2123&a1_1000=1383&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:21,942 127.0.0.1 - - [24/Nov/2017 16:20:21] "GET /control?view=1&a0_1000=2123&a1_1000=1385&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,143 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1389&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,147 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1397&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,149 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1412&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,154 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1429&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,156 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1452&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,164 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1477&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,170 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1516&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,173 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1559&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,185 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1594&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,195 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1648&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,208 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1707&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,225 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1755&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,240 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1779&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,258 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1784&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:22,274 127.0.0.1 - - [24/Nov/2017 16:20:22] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=462 HTTP/1.1" 500 -
+2017-11-24 16:20:24,174 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=396 HTTP/1.1" 500 -
+2017-11-24 16:20:24,277 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=440 HTTP/1.1" 500 -
+2017-11-24 16:20:24,292 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=525 HTTP/1.1" 500 -
+2017-11-24 16:20:24,311 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=659 HTTP/1.1" 500 -
+2017-11-24 16:20:24,326 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=774 HTTP/1.1" 500 -
+2017-11-24 16:20:24,341 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=934 HTTP/1.1" 500 -
+2017-11-24 16:20:24,358 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1060 HTTP/1.1" 500 -
+2017-11-24 16:20:24,375 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1130 HTTP/1.1" 500 -
+2017-11-24 16:20:24,393 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1201 HTTP/1.1" 500 -
+2017-11-24 16:20:24,410 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1244 HTTP/1.1" 500 -
+2017-11-24 16:20:24,429 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1274 HTTP/1.1" 500 -
+2017-11-24 16:20:24,445 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1318 HTTP/1.1" 500 -
+2017-11-24 16:20:24,464 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1346 HTTP/1.1" 500 -
+2017-11-24 16:20:24,474 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1373 HTTP/1.1" 500 -
+2017-11-24 16:20:24,494 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1399 HTTP/1.1" 500 -
+2017-11-24 16:20:24,510 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1424 HTTP/1.1" 500 -
+2017-11-24 16:20:24,525 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1467 HTTP/1.1" 500 -
+2017-11-24 16:20:24,544 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1491 HTTP/1.1" 500 -
+2017-11-24 16:20:24,559 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1514 HTTP/1.1" 500 -
+2017-11-24 16:20:24,592 127.0.0.1 - - [24/Nov/2017 16:20:24] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1534 HTTP/1.1" 500 -
+2017-11-24 16:20:34,607 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1556 HTTP/1.1" 500 -
+2017-11-24 16:20:34,673 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1536 HTTP/1.1" 500 -
+2017-11-24 16:20:34,687 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1517 HTTP/1.1" 500 -
+2017-11-24 16:20:34,703 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1498 HTTP/1.1" 500 -
+2017-11-24 16:20:34,721 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1481 HTTP/1.1" 500 -
+2017-11-24 16:20:34,738 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1448 HTTP/1.1" 500 -
+2017-11-24 16:20:34,755 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1397 HTTP/1.1" 500 -
+2017-11-24 16:20:34,771 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1357 HTTP/1.1" 500 -
+2017-11-24 16:20:34,788 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1312 HTTP/1.1" 500 -
+2017-11-24 16:20:34,805 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1281 HTTP/1.1" 500 -
+2017-11-24 16:20:34,824 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1231 HTTP/1.1" 500 -
+2017-11-24 16:20:34,841 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1186 HTTP/1.1" 500 -
+2017-11-24 16:20:34,859 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1127 HTTP/1.1" 500 -
+2017-11-24 16:20:34,874 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1102 HTTP/1.1" 500 -
+2017-11-24 16:20:34,891 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1091 HTTP/1.1" 500 -
+2017-11-24 16:20:34,909 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1067 HTTP/1.1" 500 -
+2017-11-24 16:20:34,924 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1058 HTTP/1.1" 500 -
+2017-11-24 16:20:34,938 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=1036 HTTP/1.1" 500 -
+2017-11-24 16:20:34,955 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=994 HTTP/1.1" 500 -
+2017-11-24 16:20:34,970 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=988 HTTP/1.1" 500 -
+2017-11-24 16:20:34,989 127.0.0.1 - - [24/Nov/2017 16:20:34] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=982 HTTP/1.1" 500 -
+2017-11-24 16:20:35,006 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=945 HTTP/1.1" 500 -
+2017-11-24 16:20:35,022 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=925 HTTP/1.1" 500 -
+2017-11-24 16:20:35,042 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=892 HTTP/1.1" 500 -
+2017-11-24 16:20:35,054 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=876 HTTP/1.1" 500 -
+2017-11-24 16:20:35,072 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=845 HTTP/1.1" 500 -
+2017-11-24 16:20:35,090 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=830 HTTP/1.1" 500 -
+2017-11-24 16:20:35,122 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=802 HTTP/1.1" 500 -
+2017-11-24 16:20:35,154 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1790&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:35,922 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1793&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:35,937 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1791&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:35,988 127.0.0.1 - - [24/Nov/2017 16:20:35] "GET /control?view=1&a0_1000=2123&a1_1000=1789&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,003 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1786&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,020 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1779&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,040 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1769&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,054 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1756&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,069 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1743&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,090 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1736&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,104 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1721&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,123 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1711&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,141 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1701&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,156 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1691&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,172 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1668&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,192 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1655&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,208 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1638&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,240 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1630&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,256 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1600&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,271 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1588&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,288 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1568&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,305 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1551&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,320 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1526&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,338 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1499&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,360 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1473&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,374 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1455&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,391 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1442&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,406 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1430&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,425 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1418&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,437 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1406&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,453 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1399&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,487 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1395&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,491 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1388&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,503 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1385&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,521 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1380&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,570 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1377&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,635 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1373&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,656 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1370&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,670 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1368&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,755 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1376&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,769 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1395&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,792 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1426&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,805 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1462&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,820 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1504&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,839 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1539&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,857 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1586&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,872 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1611&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,887 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1634&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,904 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1656&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,920 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1676&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,937 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1696&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,955 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1713&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:36,969 127.0.0.1 - - [24/Nov/2017 16:20:36] "GET /control?view=1&a0_1000=2123&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,835 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=2105&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,888 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=2103&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,902 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=2085&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,919 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=2051&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,937 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=2008&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,952 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=1939&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,970 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=1830&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:37,986 127.0.0.1 - - [24/Nov/2017 16:20:37] "GET /control?view=1&a0_1000=1763&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,003 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1640&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,020 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1543&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,035 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1499&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,052 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1494&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,119 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1488&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,135 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1488&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,169 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1482&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,205 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1477&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:20:38,223 127.0.0.1 - - [24/Nov/2017 16:20:38] "GET /control?view=1&a0_1000=1476&a1_1000=1733&a2_1000=788 HTTP/1.1" 500 -
+2017-11-24 16:21:11,520 
+<> REMOTE_MAINTENANCE   #established connection
+   [<zmq.sugar.socket.Socket object at 0x7f773bafe3a8>]
+   
+</>
+2017-11-24 16:21:11,530  * Running on http://localhost:40000/ (Press CTRL+C to quit)
+2017-11-24 16:21:23,918 127.0.0.1 - - [24/Nov/2017 16:21:23] "GET / HTTP/1.1" 200 -
+2017-11-24 16:21:26,784 127.0.0.1 - - [24/Nov/2017 16:21:26] "POST /robot_login.html HTTP/1.1" 200 -
+2017-11-24 16:21:27,139 127.0.0.1 - - [24/Nov/2017 16:21:27] "GET /current_position HTTP/1.1" 200 -

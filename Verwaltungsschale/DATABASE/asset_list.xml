@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assetList>
+
+  <asset id="roboterarm">
+    <name xml:lang="de">Roboterarm</name>
+    <thumbnail>sideview_left_320x200.png</thumbnail>
+    <shortInfo>Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion</shortInfo>
+  </asset>
+
+  <asset id="robotergreifer">
+    <name xml:lang="de">Robotergreifer</name>
+    <thumbnail>robotergreifer_240x240.jpg</thumbnail>
+    <shortInfo>Der Robotergreifer ist ein 3D-gedrucktes Bauteil, mihilfe dessen der Roboterarm mit der Umwelt interagieren kann.</shortInfo>
+  </asset>
+
+  <asset id="raspberry-pi">
+    <name xml:lang="de">Raspberry-Pi</name>
+    <thumbnail>raspberry-pi_510x510.png</thumbnail>
+    <shortInfo>Ein miniaturisiertes, eingebettetes System.</shortInfo>
+  </asset>
+
+</assetList>

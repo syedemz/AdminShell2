@@ -1,0 +1,164 @@
+{% extends "GUI/templates/header.html" %}
+{% block body %}
+
+<!-- DEBUGGING -->
+<!-- {{ variables }} -->
+
+<!-- WORKING JINJA FOR-LOOP - IF NECESSARY -->
+{#  {% for key, item in variables.items() %} #}
+{#  <li>{{ item.blockTitle }}</li> #}
+{#  {% endfor %} #}
+
+  <div class="[ col-xs-offset-0 col-xs-12 col-sm-offset-1 col-sm-10 ]">
+  <div class="row">
+    <ul id="dataBlocksUl" class="thumbnails" style="list-style: none; padding:0; margin:0">
+
+      <!-- THIS FOLLOWING, OUTCOMMENTED CODE IS JUST AN EXAMPLE OF
+            WHAT THE JS-CODE IS GENERATING -->
+
+        <!-- <li class="span5 clearfix">
+          <div class="panel panel-default" style= "width: 95%; margin:0 auto;">
+            <div class="panel-heading">
+              <h3 class="panel-title"> {{ blockTitle }} </h3>
+            </div>
+            <div class="panel-body">
+
+              Link: {{ blockLink }} </br>
+              Creator: {{ blockCreator}} </br>
+              CreationDate: {{ blockCreationDate }} </br>
+              Typ des Payloads: {{ blockPayloadType }}
+
+            </div>
+          </div>
+        </li> -->
+
+    </ul>
+  </div>
+</div>
+
+
+<script>
+/*
+Declaration of an JS-Variable from the Jina2 Varibale.
+The "safe" is very important because otherwise JS supstitutes
+some signs and chars
+*/
+var database_data = {{ variables | safe }};
+/*
+In the following is the javascript-Code, which generates a list of blocks
+for every block in the data.xml. The information comes in an nested dict
+of the kind:
+        {"Block1":
+              {"blockLink":"data/images/pic.png",
+               "blockTitle":"Picture of the Robot",
+               "blockPayload":"Payload-Stuff"},
+         "Block2":
+              {"blockLink":"data/images/pic.png",
+              ... },
+        }
+The block identifier (Block1, Block2) is the content of the <omm:title> Tag
+*/
+
+/*
+ITARATION OF ALL BLOCKS IN data.xml AND CREATING AN ENTRY FOR EVERY BLOCK
+WITH JAVASCRIPT.
+*/
+for (var block in database_data) {
+    // PRÜFUNG, OB EINTRÄGE IN DER LISTE (asset_list) EXISTIEREN
+    if (!database_data.hasOwnProperty(block))
+    continue;
+
+    var obj = database_data[block];
+
+    // find element by Id
+    var dataUl = document.getElementById("dataBlocksUl")
+    // create an element
+    var dataLi = document.createElement("li");
+    // Anfuegen eines Li-Tags an die Ul
+    dataUl.appendChild(dataLi);
+
+    // <div>
+    var dataDiv1 = document.createElement("div");
+    dataDiv1.setAttribute("style",  "background-color:#f8f8f8");
+    dataDiv1.setAttribute("class", "thumbnail clearfix");
+    dataLi.appendChild(dataDiv1);
+
+    // // <img>
+    // var assetImg = document.createElement("img");
+    // assetImg.setAttribute("src", obj.thumbnail);
+    // assetImg.setAttribute("class", "pull-left span2 clearfix");
+    // assetImg.setAttribute("style", "margin-right:10px");
+    // assetDiv1.appendChild(assetImg);
+
+    // erzeugen und Anhängen eines zweiten Divs
+    var dataDiv2 = document.createElement("div");
+    dataDiv2.setAttribute("class", "panel-heading");
+    dataDiv1.appendChild(dataDiv2);
+
+    // // <a>
+    // var assetBtn = document.createElement("a");
+    // assetBtn.setAttribute("class", "btn btn-primary icon  pull-right");
+    // assetBtn.setAttribute("href", obj.url);
+    // assetBtn.setAttribute("style", "margin-right:10px, margin-bottom:20px");
+    // assetDiv2.appendChild(assetBtn);
+    // var einrichten =  document.createTextNode(obj.name+" einrichten");
+    // assetBtn.appendChild(einrichten);
+
+    // <h1>
+    var dataH3 = document.createElement("h3");
+    dataH3.setAttribute("style", "margin-bottom:15px");
+    dataH3.setAttribute("class", "panel-title");
+    dataDiv2.appendChild(dataH3);
+
+    var dataDiv3 = document.createElement("div");
+    dataDiv3.setAttribute("class", "panel-body");
+    dataDiv1.appendChild(dataDiv3);
+
+    // // <a>
+    // var blockName = document.createElement("a");
+    // // href
+    // blockName.setAttribute("href", obj.blockLink);
+    // dataH3.appendChild(blockName);
+
+    // Erzeugen und Anhängen des Namen des Assets als Text
+    var blockTitle = document.createTextNode('Block: '+obj.blockTitle);
+    dataH3.appendChild(blockTitle);
+
+    var blockCreatorText = document.createTextNode('Block Creator: '+obj.blockCreator+"\n");
+    dataDiv3.appendChild(blockCreatorText);
+
+    // var blockLink = document.createElement("p");
+    // dataDiv3.appendChild(blockLink);
+    var blockLinkText = document.createTextNode('Link: '+obj.blockLink);
+    dataDiv3.appendChild(blockLinkText);
+
+
+      // CODE FÜR DEN FALL DASS KEINE ASSET LISTE DA IST
+      // MUSS NOCH IN EINE SCHLEIFE GEPACKT WERDEN
+
+      // // finden der einen "ul"
+      // var assetUl = document.getElementById("assetUl")
+      // // erzeugen eines "li"
+      // var assetLi = document.createElement("li");
+      // // Anfuegen eines Li-Tags an die Ul
+      // assetUl.appendChild(assetLi);
+      //
+      // // erzeugen und Anhängen eines Div1
+      // var assetDiv1 = document.createElement("div");
+      // assetDiv1.setAttribute("style",  "background-color:#f8f8f8");
+      // assetDiv1.setAttribute("class", "thumbnail clearfix");
+      // assetLi.appendChild(assetDiv1);
+      //
+      // var noAssetList = document.createElement("p");
+      // assetDiv1.appendChild(noAssetList);
+      // var noAssetListText = document.createTextNode("Leider keine verfügbaren \
+      //                                               Assets gefunden");
+      // noAssetList.appendChild(noAssetListText);
+
+
+    // console.log("Trennung zwischen Assets");
+}
+
+</script>
+
+{% endblock %}

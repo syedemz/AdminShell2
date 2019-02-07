@@ -1,0 +1,38 @@
+{
+    "user1": {
+        "username" : "Jakob Albert",
+        "password" : "123",
+        "image_name" : "jakob_albert",
+        "short_name" : "Jakob",
+        "reply_username" : "Erdal Tantik",
+        "reply_image_name" : "erdal_tantik",
+        "reply_short_name" : "Erdal"
+    },
+    "user2": {
+        "username" : "Denis Funikow",
+        "password" : "123",
+        "image_name" : "denis_funikow",
+        "short_name" : "Denis",
+        "reply_user_name" : "Erdal Tantik",
+        "reply_image_name" : "erdal_tantik",
+        "reply_short_name" : "Erdal"
+    },
+    "user3": {
+        "username" : "Max Muster",
+        "password" : "123",
+        "image_name" : "max_museter",
+        "short_name" : "Max",
+        "reply_username" : "Erdal Tantik",
+        "reply_image_name" : "erdal_tantik",
+        "reply_short_name" : "Erdal"
+    },
+    "user4": {
+        "username" : "Erdal Tantik",
+        "password" : "123",
+        "image_name" : "erdal_tantik",
+        "short_name" : "Erdal",
+        "reply_user_name" : "Max Muster",
+        "reply_image_name" : "max_muster",
+        "reply_short_name" : "Max"
+    }
+}

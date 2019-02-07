@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdm xmlns="https://www.w3.org/2005/Incubator/omm/elements/1.0/" xmlns:omm="https://www.w3.org/2005/Incubator/omm/elements/1.0/">
+
+<omm:header>
+
+    <omm:version>1.0</omm:version>
+    <omm:primaryID omm:type="url">http://www.DatenbankDaten.OMM_Memory_App_0001.de</omm:primaryID>
+
+    <omm:additionalBlocks omm:type="omm_http">http://www.w3.org/2005/Incubator/omm/samples/p1/ext</omm:additionalBlocks>
+
+</omm:header>
+
+
+
+<omm:toc>
+
+  <omm:element omm:id="block_11111">
+  
+    <omm:title xml:lang="en">access authorization</omm:title>
+    <omm:title xml:lang="de">Zugriffsberechtigungen</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+
+    <omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">application/xml</omm:format>
+    
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+
+  </omm:element>
+
+
+  <omm:element omm:id="block_22222">
+
+    <omm:title xml:lang="en">calculation</omm:title>
+    <omm:title xml:lang="de">Berechnung</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+    
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+  </omm:element>
+  
+</omm:toc>
+
+
+
+<omm:block omm:id="block_11111">
+		
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+		
+    <omm:title xml:lang="en">access authorization</omm:title>
+    <omm:title xml:lang="de">Zugriffsberechtigungen</omm:title>
+		
+	<omm:creation>
+		<omm:creator omm:type="duns">123456789</omm:creator>
+		<omm:date omm:encoding="ISO8601">2016-08-25T14:30:00+01:00</omm:date>	
+	</omm:creation>
+				
+	<omm:contribution>						
+		<omm:contributor omm:type="email">user@example.com</omm:contributor>
+		<omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+	</omm:contribution>
+		
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+		
+    <omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">application/xml</omm:format>
+	
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+	<omm:subject>
+		<omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+		<omm:tag omm:type="ontology" omm:value="http://www.w3.org/ontologies/v1/phase.owl#Production"/>
+		<omm:tag omm:type="text" omm:value="ingredients"/>
+		<omm:tag omm:type="text" omm:value="norms">
+			<omm:tag omm:type="text" omm:value="din">
+				<omm:tag omm:type="text" omm:value="e12"/>				
+        		</omm:tag>
+		</omm:tag>
+	</omm:subject>		
+	<omm:payload omm:encoding="base64">Liste der Zugriffsberechtigungen und Zugriffe mit Datum</omm:payload>
+	
+</omm:block>
+
+
+<omm:block omm:id="block_22222">
+
+    <omm:title xml:lang="en">calculation</omm:title>
+    <omm:title xml:lang="de">Berechnung</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description</omm:description>
+    <omm:description xml:lang="de">Beschreibung</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+    <omm:payload omm:encoding="base64">
+      <Beispiel>Hier ist Platz für eine ausgedehnte XML-Struktur</Beispiel>
+    </omm:payload>
+    
+</omm:block>
+
+ </mdm>

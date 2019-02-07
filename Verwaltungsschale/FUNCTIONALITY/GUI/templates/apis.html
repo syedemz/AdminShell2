@@ -1,0 +1,61 @@
+{% extends "GUI/templates/header.html" %}
+{% block body %}
+
+<div class="container-fluid" style="margin:0 auto; ">
+  <div class="[ col-xs-offset-0 col-xs-12 col-sm-offset-0 col-sm-12 ]">
+
+			<div class="col-sm-12 col-lg-6 well">
+				<form method="post">
+					<div class="form-group">
+			    <label for="Textarea1">JSON API Request</label>
+			    <textarea class="form-control" id="Textarea1" rows="10" >
+{
+"module_id": "your MODULE",
+"resource_id": "your resource",
+"request_method": "GET, POST, PUT, DELETE",
+"json_data":
+{
+"custom key(s)" : "custom value(s)"
+}
+}
+						</textarea>
+			  </div>
+					<div class="btn-group" role="group" aria-label="Basic example">
+			  	<button type="submit" class="btn btn-secondary">Submit</button>
+			  	<button type="reset" class="btn btn-secondary">Reset</button>
+					</div>
+				</form>
+		</div>
+
+		<div class="col-sm-12 col-lg-6 well">
+			<div class="media-body">
+					<h4 class="media-heading"><b>Using the API</b></h4>
+					<p>
+					</br>
+You can use this API for testing your modules, without using e.g. POSTMAN for
+sending HTTP-Requests. The 'module_id' and 'resource_id' are usually a part of
+the URL. 'request_method' is the HTTP-Method, GET, POST, PUT, DELETE are in use
+till now but the method is forwarded to the adressed module, which can implement
+further methods. The 'json_data' is optional and depends only on the adressed
+module.
+				</br>
+<h4><u> Example: Installing the api_games-module </u></h4>
+{ </br>
+"module_id": "INSTALLER", </br>
+"resource_id": "install", </br>
+"request_method": "PUT", </br>
+"json_data": </br>
+{ </br>
+"module_id" : "api_games" </br>
+} </br>
+}
+				</p>
+			</div>
+		</div>
+
+		</div>
+</div>
+
+
+
+{% endblock %}

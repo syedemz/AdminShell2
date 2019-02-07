@@ -1,0 +1,12 @@
+[Unit]
+Description=i40AS Modules
+
+[Service]
+User=USR
+Group=www-data
+WorkingDirectory=DIR
+Environment="PATH=DIR/projectenv/bin"
+ExecStart=DIR/projectenv/bin/python3.5 DIR/module_start.py
+
+[Install]
+WantedBy=multi-user.target

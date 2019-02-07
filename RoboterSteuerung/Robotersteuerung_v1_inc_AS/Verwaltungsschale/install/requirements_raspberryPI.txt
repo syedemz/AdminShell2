@@ -1,0 +1,8 @@
+Flask==0.11.1
+Jinja2==2.8
+Werkzeug==0.11.11
+decorator==4.0.10
+flipflop==1.0
+pyzmq==15.4.0
+uwsgi==2.0.14
+requests==2.13.0

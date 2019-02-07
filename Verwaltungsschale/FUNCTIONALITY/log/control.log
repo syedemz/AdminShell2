@@ -1,0 +1,1505 @@
+2017-11-24 15:26:08,400 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb53727ae28>, 'url': 'tcp://127.0.0.1:6018', 'identity': b'module_installer'}
+</>
+2017-11-24 15:26:08,400 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb53727ae88>, 'url': 'tcp://127.0.0.1:6000', 'identity': b'restart'}
+</>
+2017-11-24 15:26:08,401 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb53727aee8>, 'url': 'tcp://127.0.0.1:5556', 'identity': b'httpout'}
+</>
+2017-11-24 15:26:08,401 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb53727af48>, 'url': 'tcp://127.0.0.1:6019', 'identity': b'asset_installer'}
+</>
+2017-11-24 15:26:08,401 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb53727afa8>, 'url': 'tcp://127.0.0.1:6015', 'identity': b'remote_maintenance'}
+</>
+2017-11-24 15:26:08,401 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb5372a40a8>, 'url': 'tcp://127.0.0.1:6009', 'identity': b'gui'}
+</>
+2017-11-24 15:26:08,401 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb5372a4048>, 'url': 'tcp://127.0.0.1:5557', 'identity': b'database'}
+</>
+2017-11-24 15:26:08,402 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb53727ad68>, 'url': 'tcp://127.0.0.1:5555', 'identity': b'httpin'}
+</>
+2017-11-24 15:26:08,402 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb5372a4108>, 'url': 'tcp://127.0.0.1:5554', 'identity': b'vlacs'}
+</>
+2017-11-24 15:26:08,402 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb5372a4168>, 'url': 'tcp://127.0.0.1:5559', 'identity': b'interface'}
+</>
+2017-11-24 15:26:08,407 
+<> CONTROL   #established socket
+   []
+   {'socket': <zmq.sugar.socket.Socket object at 0x7fb5372a41c8>, 'url': 'tcp://127.0.0.1:6003', 'identity': b'robo_gui_shadow'}
+</>
+2017-11-24 15:31:42,028 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'url': 'tcp://127.0.0.1:6018', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e4e24e28>}
+</>
+2017-11-24 15:31:42,028 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'url': 'tcp://127.0.0.1:5556', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e4e24e88>}
+</>
+2017-11-24 15:31:42,028 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'url': 'tcp://127.0.0.1:6015', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e4e24ee8>}
+</>
+2017-11-24 15:31:42,028 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'url': 'tcp://127.0.0.1:5559', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e4e24f48>}
+</>
+2017-11-24 15:31:42,029 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'url': 'tcp://127.0.0.1:5555', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e4e24d68>}
+</>
+2017-11-24 15:31:42,029 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'url': 'tcp://127.0.0.1:6009', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e45ac048>}
+</>
+2017-11-24 15:31:42,029 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'url': 'tcp://127.0.0.1:6019', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e4e24fa8>}
+</>
+2017-11-24 15:31:42,029 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'url': 'tcp://127.0.0.1:6003', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e45ac0a8>}
+</>
+2017-11-24 15:31:42,029 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'url': 'tcp://127.0.0.1:6000', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e45ac108>}
+</>
+2017-11-24 15:31:42,029 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'url': 'tcp://127.0.0.1:5557', 'socket': <zmq.sugar.socket.Socket object at 0x7f72e45ac168>}
+</>
+2017-11-24 15:34:27,927 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454dc8>, 'url': 'tcp://127.0.0.1:6015'}
+</>
+2017-11-24 15:34:27,927 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454e28>, 'url': 'tcp://127.0.0.1:6000'}
+</>
+2017-11-24 15:34:27,927 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454d08>, 'url': 'tcp://127.0.0.1:5555'}
+</>
+2017-11-24 15:34:27,928 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454e88>, 'url': 'tcp://127.0.0.1:5559'}
+</>
+2017-11-24 15:34:27,928 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454ee8>, 'url': 'tcp://127.0.0.1:6003'}
+</>
+2017-11-24 15:34:27,928 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>, 'url': 'tcp://127.0.0.1:6009'}
+</>
+2017-11-24 15:34:27,929 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6d454f48>, 'url': 'tcp://127.0.0.1:5557'}
+</>
+2017-11-24 15:34:27,929 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6cbc9048>, 'url': 'tcp://127.0.0.1:5556'}
+</>
+2017-11-24 15:34:27,929 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6cbc90a8>, 'url': 'tcp://127.0.0.1:6018'}
+</>
+2017-11-24 15:34:27,930 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'socket': <zmq.sugar.socket.Socket object at 0x7f3f6cbc9108>, 'url': 'tcp://127.0.0.1:6019'}
+</>
+2017-11-24 15:35:05,037 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"module_version": "v1", "request": "GET", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:35:05,037 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"module_version": "v1", "request": "GET", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:35:05,037 
+<> CONTROL   #completed loop
+   []
+   1
+</>
+2017-11-24 15:35:05,039 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:35:05,039 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:35:05,039 
+<> CONTROL   #completed loop
+   []
+   2
+</>
+2017-11-24 15:35:05,100 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:35:05,116 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:35:05,116 
+<> CONTROL   #completed loop
+   []
+   3
+</>
+2017-11-24 15:35:05,205 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:05,223 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:05,223 
+<> CONTROL   #completed loop
+   []
+   4
+</>
+2017-11-24 15:35:12,969 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "index"}']
+</>
+2017-11-24 15:35:12,970 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "index"}']
+</>
+2017-11-24 15:35:12,970 
+<> CONTROL   #completed loop
+   []
+   5
+</>
+2017-11-24 15:35:12,970 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'database', b'gui', b'{"request": "getDataLeftView"}']
+</>
+2017-11-24 15:35:12,970 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'database', b'gui', b'{"request": "getDataLeftView"}']
+</>
+2017-11-24 15:35:12,970 
+<> CONTROL   #completed loop
+   []
+   6
+</>
+2017-11-24 15:35:13,276 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'gui', b'database', b'{"response": {"blockImage4": "iVBORw0KGgoAAAANSUhEUgAAAlgAAAH0CAYAAADhUFPUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAABEyFJREFUeNrsvQmcHFd1/3 ...
+</>
+2017-11-24 15:35:13,296 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'gui', b'database', b'{"response": {"blockImage4": "iVBORw0KGgoAAAANSUhEUgAAAlgAAAH0CAYAAADhUFPUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAABEyFJREFUeNrsvQmcHFd1/3 ...
+</>
+2017-11-24 15:35:13,296 
+<> CONTROL   #completed loop
+   []
+   7
+</>
+2017-11-24 15:35:13,498 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:13,539 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:13,539 
+<> CONTROL   #completed loop
+   []
+   8
+</>
+2017-11-24 15:35:15,238 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "data"}']
+</>
+2017-11-24 15:35:15,238 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "data"}']
+</>
+2017-11-24 15:35:15,238 
+<> CONTROL   #completed loop
+   []
+   9
+</>
+2017-11-24 15:35:15,239 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'database', b'gui', b'{"request": "getBlockData"}']
+</>
+2017-11-24 15:35:15,239 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'database', b'gui', b'{"request": "getBlockData"}']
+</>
+2017-11-24 15:35:15,240 
+<> CONTROL   #completed loop
+   []
+   10
+</>
+2017-11-24 15:35:15,244 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'gui', b'database', b'{"response": "{\\"access authorization\\": {\\"blockTitle\\": \\"access authorization\\", \\"blockLink\\": \\"URL2Block\\", \\"blockCreator\\": \\"123456789\\", \\"blockCreatio ...
+</>
+2017-11-24 15:35:15,244 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'gui', b'database', b'{"response": "{\\"access authorization\\": {\\"blockTitle\\": \\"access authorization\\", \\"blockLink\\": \\"URL2Block\\", \\"blockCreator\\": \\"123456789\\", \\"blockCreatio ...
+</>
+2017-11-24 15:35:15,244 
+<> CONTROL   #completed loop
+   []
+   11
+</>
+2017-11-24 15:35:15,271 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:15,287 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:15,287 
+<> CONTROL   #completed loop
+   []
+   12
+</>
+2017-11-24 15:35:16,929 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:35:16,930 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:35:16,930 
+<> CONTROL   #completed loop
+   []
+   13
+</>
+2017-11-24 15:35:16,930 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:35:16,930 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:35:16,930 
+<> CONTROL   #completed loop
+   []
+   14
+</>
+2017-11-24 15:35:16,931 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454f48>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"template\\": \\"http://127.0.0.1:40000\\", \\"title\\": \\"Remote Maintenance \\", \\"port\\": \\"6015\\", \\"identity\\": \\"remot ...
+</>
+2017-11-24 15:35:16,932 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"template\\": \\"http://127.0.0.1:40000\\", \\"title\\": \\"Remote Maintenance \\", \\"port\\": \\"6015\\", \\"identity\\": \\"remot ...
+</>
+2017-11-24 15:35:16,932 
+<> CONTROL   #completed loop
+   []
+   15
+</>
+2017-11-24 15:35:16,956 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:16,966 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:16,967 
+<> CONTROL   #completed loop
+   []
+   16
+</>
+2017-11-24 15:35:19,911 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:35:19,911 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:35:19,911 
+<> CONTROL   #completed loop
+   []
+   17
+</>
+2017-11-24 15:35:19,912 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'httpout', b'gui', b'{"ip_address": "http://127.0.0.1:50001", "request": "GET", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:35:19,912 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6cbc9048>]
+   [b'httpout', b'gui', b'{"ip_address": "http://127.0.0.1:50001", "request": "GET", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:35:19,912 
+<> CONTROL   #completed loop
+   []
+   18
+</>
+2017-11-24 15:35:29,965 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454fa8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:29,989 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f3f6d454d08>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:35:29,990 
+<> CONTROL   #completed loop
+   []
+   19
+</>
+2017-11-24 15:38:22,735 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'url': 'tcp://127.0.0.1:6019', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9888>}
+</>
+2017-11-24 15:38:22,735 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'url': 'tcp://127.0.0.1:6015', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d98e8>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'url': 'tcp://127.0.0.1:6000', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9948>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'url': 'tcp://127.0.0.1:5559', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d99a8>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'url': 'tcp://127.0.0.1:6003', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9a08>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'url': 'tcp://127.0.0.1:5555', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'url': 'tcp://127.0.0.1:5557', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9a68>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'url': 'tcp://127.0.0.1:6009', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'url': 'tcp://127.0.0.1:5556', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9ac8>}
+</>
+2017-11-24 15:38:22,736 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'url': 'tcp://127.0.0.1:6018', 'socket': <zmq.sugar.socket.Socket object at 0x7f8f4c7d9b88>}
+</>
+2017-11-24 15:38:58,402 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:38:58,402 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:38:58,403 
+<> CONTROL   #completed loop
+   []
+   1
+</>
+2017-11-24 15:38:58,405 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:38:58,405 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9a68>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:38:58,405 
+<> CONTROL   #completed loop
+   []
+   2
+</>
+2017-11-24 15:38:58,432 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9a68>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:38:58,444 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:38:58,445 
+<> CONTROL   #completed loop
+   []
+   3
+</>
+2017-11-24 15:38:58,533 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:38:58,561 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:38:58,561 
+<> CONTROL   #completed loop
+   []
+   4
+</>
+2017-11-24 15:39:01,383 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:01,383 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:01,383 
+<> CONTROL   #completed loop
+   []
+   5
+</>
+2017-11-24 15:39:01,383 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:01,384 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9a68>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:01,384 
+<> CONTROL   #completed loop
+   []
+   6
+</>
+2017-11-24 15:39:01,385 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9a68>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:01,385 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:01,385 
+<> CONTROL   #completed loop
+   []
+   7
+</>
+2017-11-24 15:39:01,404 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:01,414 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:01,415 
+<> CONTROL   #completed loop
+   []
+   8
+</>
+2017-11-24 15:39:02,794 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:02,794 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:02,794 
+<> CONTROL   #completed loop
+   []
+   9
+</>
+2017-11-24 15:39:02,795 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:02,795 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9ac8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:02,795 
+<> CONTROL   #completed loop
+   []
+   10
+</>
+2017-11-24 15:39:12,831 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:12,841 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:12,842 
+<> CONTROL   #completed loop
+   []
+   11
+</>
+2017-11-24 15:39:15,798 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d97c8>]
+   [b'\x00k\x8bEh', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:15,799 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'\x00k\x8bEh', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:15,799 
+<> CONTROL   #completed loop
+   []
+   12
+</>
+2017-11-24 15:39:15,800 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f8f4c7d9b28>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:31,015 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'url': 'tcp://127.0.0.1:6019', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deb828>}
+</>
+2017-11-24 15:39:31,016 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'url': 'tcp://127.0.0.1:6015', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deb888>}
+</>
+2017-11-24 15:39:31,016 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'url': 'tcp://127.0.0.1:6000', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deb8e8>}
+</>
+2017-11-24 15:39:31,016 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'url': 'tcp://127.0.0.1:5559', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deb948>}
+</>
+2017-11-24 15:39:31,016 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'url': 'tcp://127.0.0.1:6003', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deb9a8>}
+</>
+2017-11-24 15:39:31,016 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'url': 'tcp://127.0.0.1:5555', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deb7c8>}
+</>
+2017-11-24 15:39:31,016 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'url': 'tcp://127.0.0.1:5557', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deba08>}
+</>
+2017-11-24 15:39:31,017 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'url': 'tcp://127.0.0.1:6009', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001debac8>}
+</>
+2017-11-24 15:39:31,017 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'url': 'tcp://127.0.0.1:5556', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001deba68>}
+</>
+2017-11-24 15:39:31,017 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'url': 'tcp://127.0.0.1:6018', 'socket': <zmq.sugar.socket.Socket object at 0x7f2001debb28>}
+</>
+2017-11-24 15:39:40,254 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deb7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:39:40,254 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:39:40,255 
+<> CONTROL   #completed loop
+   []
+   1
+</>
+2017-11-24 15:39:40,256 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:39:40,256 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deba08>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:39:40,256 
+<> CONTROL   #completed loop
+   []
+   2
+</>
+2017-11-24 15:39:40,289 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deba08>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:39:40,301 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:39:40,301 
+<> CONTROL   #completed loop
+   []
+   3
+</>
+2017-11-24 15:39:40,388 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:40,420 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deb7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:40,421 
+<> CONTROL   #completed loop
+   []
+   4
+</>
+2017-11-24 15:39:42,229 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deb7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:42,229 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:39:42,229 
+<> CONTROL   #completed loop
+   []
+   5
+</>
+2017-11-24 15:39:42,230 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:42,230 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deba08>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:39:42,230 
+<> CONTROL   #completed loop
+   []
+   6
+</>
+2017-11-24 15:39:42,231 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deba08>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:42,232 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:39:42,232 
+<> CONTROL   #completed loop
+   []
+   7
+</>
+2017-11-24 15:39:42,256 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:42,268 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deb7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:42,268 
+<> CONTROL   #completed loop
+   []
+   8
+</>
+2017-11-24 15:39:46,912 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deb7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:46,913 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:39:46,913 
+<> CONTROL   #completed loop
+   []
+   9
+</>
+2017-11-24 15:39:46,913 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:46,914 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deba68>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:39:46,914 
+<> CONTROL   #completed loop
+   []
+   10
+</>
+2017-11-24 15:39:56,957 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f2001debac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:56,965 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f2001deb7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:39:56,965 
+<> CONTROL   #completed loop
+   []
+   11
+</>
+2017-11-24 15:42:01,791 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'url': 'tcp://127.0.0.1:6019', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2f828>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'url': 'tcp://127.0.0.1:6015', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2f888>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'url': 'tcp://127.0.0.1:6000', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2f8e8>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'url': 'tcp://127.0.0.1:5559', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2f948>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'url': 'tcp://127.0.0.1:6003', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2f9a8>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'url': 'tcp://127.0.0.1:5555', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'url': 'tcp://127.0.0.1:5557', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2fa08>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'url': 'tcp://127.0.0.1:6009', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>}
+</>
+2017-11-24 15:42:01,792 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'url': 'tcp://127.0.0.1:5556', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2fa68>}
+</>
+2017-11-24 15:42:01,793 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'url': 'tcp://127.0.0.1:6018', 'socket': <zmq.sugar.socket.Socket object at 0x7fa26ff2fb28>}
+</>
+2017-11-24 15:42:07,840 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:42:07,840 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:42:07,841 
+<> CONTROL   #completed loop
+   []
+   1
+</>
+2017-11-24 15:42:07,843 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:42:07,844 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fa08>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:42:07,844 
+<> CONTROL   #completed loop
+   []
+   2
+</>
+2017-11-24 15:42:07,874 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fa08>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:42:07,895 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:42:07,895 
+<> CONTROL   #completed loop
+   []
+   3
+</>
+2017-11-24 15:42:07,971 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:07,996 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:07,996 
+<> CONTROL   #completed loop
+   []
+   4
+</>
+2017-11-24 15:42:09,910 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:42:09,910 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:42:09,910 
+<> CONTROL   #completed loop
+   []
+   5
+</>
+2017-11-24 15:42:09,911 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:42:09,911 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fa08>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:42:09,911 
+<> CONTROL   #completed loop
+   []
+   6
+</>
+2017-11-24 15:42:09,913 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fa08>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:42:09,913 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:42:09,913 
+<> CONTROL   #completed loop
+   []
+   7
+</>
+2017-11-24 15:42:09,937 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:09,953 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:09,953 
+<> CONTROL   #completed loop
+   []
+   8
+</>
+2017-11-24 15:42:11,212 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:42:11,212 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:42:11,212 
+<> CONTROL   #completed loop
+   []
+   9
+</>
+2017-11-24 15:42:11,213 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:42:11,213 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fa68>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:50001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:42:11,213 
+<> CONTROL   #completed loop
+   []
+   10
+</>
+2017-11-24 15:42:21,249 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2fac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:21,260 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7fa26ff2f7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:42:21,260 
+<> CONTROL   #completed loop
+   []
+   11
+</>
+2017-11-24 15:43:07,852 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'url': 'tcp://127.0.0.1:6019', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1df828>}
+</>
+2017-11-24 15:43:07,852 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'url': 'tcp://127.0.0.1:6015', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1df888>}
+</>
+2017-11-24 15:43:07,853 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'url': 'tcp://127.0.0.1:6000', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1df8e8>}
+</>
+2017-11-24 15:43:07,853 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'url': 'tcp://127.0.0.1:5559', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1df948>}
+</>
+2017-11-24 15:43:07,853 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'url': 'tcp://127.0.0.1:6003', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1df9a8>}
+</>
+2017-11-24 15:43:07,853 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'url': 'tcp://127.0.0.1:5555', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>}
+</>
+2017-11-24 15:43:07,853 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'url': 'tcp://127.0.0.1:5557', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1dfa08>}
+</>
+2017-11-24 15:43:07,853 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'url': 'tcp://127.0.0.1:6009', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>}
+</>
+2017-11-24 15:43:07,854 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'url': 'tcp://127.0.0.1:5556', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1dfa68>}
+</>
+2017-11-24 15:43:07,854 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'url': 'tcp://127.0.0.1:6018', 'socket': <zmq.sugar.socket.Socket object at 0x7f0f4e1dfb28>}
+</>
+2017-11-24 15:43:13,703 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:43:13,703 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 15:43:13,703 
+<> CONTROL   #completed loop
+   []
+   1
+</>
+2017-11-24 15:43:13,704 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:43:13,704 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfa08>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 15:43:13,705 
+<> CONTROL   #completed loop
+   []
+   2
+</>
+2017-11-24 15:43:13,733 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfa08>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:43:13,752 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 15:43:13,752 
+<> CONTROL   #completed loop
+   []
+   3
+</>
+2017-11-24 15:43:13,849 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:13,882 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:13,882 
+<> CONTROL   #completed loop
+   []
+   4
+</>
+2017-11-24 15:43:16,251 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:43:16,251 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 15:43:16,251 
+<> CONTROL   #completed loop
+   []
+   5
+</>
+2017-11-24 15:43:16,252 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:43:16,252 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfa08>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 15:43:16,252 
+<> CONTROL   #completed loop
+   []
+   6
+</>
+2017-11-24 15:43:16,253 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfa08>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:43:16,253 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 15:43:16,253 
+<> CONTROL   #completed loop
+   []
+   7
+</>
+2017-11-24 15:43:16,278 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:16,293 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:16,294 
+<> CONTROL   #completed loop
+   []
+   8
+</>
+2017-11-24 15:43:17,857 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:43:17,860 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "newAdd"}']
+</>
+2017-11-24 15:43:17,860 
+<> CONTROL   #completed loop
+   []
+   9
+</>
+2017-11-24 15:43:17,860 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:5001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:43:17,861 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfa68>]
+   [b'httpout', b'gui', b'{"request": "GET", "ip_address": "http://127.0.0.1:5001", "path": "/database/availableAdds"}']
+</>
+2017-11-24 15:43:17,861 
+<> CONTROL   #completed loop
+   []
+   10
+</>
+2017-11-24 15:43:17,878 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfa68>]
+   [b'gui', b'httpout', b'{"response": "{\\"vlacs_empfaenger\\": {\\"identity\\": \\"vlacs_empfaenger\\", \\"title\\": \\"Empfaenger des Visiuell localisation and Control Programm\\", \\"info\\": \\"Empf ...
+</>
+2017-11-24 15:43:17,878 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'gui', b'httpout', b'{"response": "{\\"vlacs_empfaenger\\": {\\"identity\\": \\"vlacs_empfaenger\\", \\"title\\": \\"Empfaenger des Visiuell localisation and Control Programm\\", \\"info\\": \\"Empf ...
+</>
+2017-11-24 15:43:17,878 
+<> CONTROL   #completed loop
+   []
+   11
+</>
+2017-11-24 15:43:17,902 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1dfac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:17,912 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f0f4e1df7c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 15:43:17,912 
+<> CONTROL   #completed loop
+   []
+   12
+</>
+2017-11-24 16:17:33,643 
+<> CONTROL   #established socket
+   []
+   {'identity': b'asset_installer', 'url': 'tcp://127.0.0.1:6019', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309828>}
+</>
+2017-11-24 16:17:33,644 
+<> CONTROL   #established socket
+   []
+   {'identity': b'remote_maintenance', 'url': 'tcp://127.0.0.1:6015', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309888>}
+</>
+2017-11-24 16:17:33,644 
+<> CONTROL   #established socket
+   []
+   {'identity': b'restart', 'url': 'tcp://127.0.0.1:6000', 'socket': <zmq.sugar.socket.Socket object at 0x7f79123098e8>}
+</>
+2017-11-24 16:17:33,645 
+<> CONTROL   #established socket
+   []
+   {'identity': b'interface', 'url': 'tcp://127.0.0.1:5559', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309948>}
+</>
+2017-11-24 16:17:33,646 
+<> CONTROL   #established socket
+   []
+   {'identity': b'robo_gui_shadow', 'url': 'tcp://127.0.0.1:6003', 'socket': <zmq.sugar.socket.Socket object at 0x7f79123099a8>}
+</>
+2017-11-24 16:17:33,646 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpin', 'url': 'tcp://127.0.0.1:5555', 'socket': <zmq.sugar.socket.Socket object at 0x7f79123097c8>}
+</>
+2017-11-24 16:17:33,647 
+<> CONTROL   #established socket
+   []
+   {'identity': b'database', 'url': 'tcp://127.0.0.1:5557', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309a08>}
+</>
+2017-11-24 16:17:33,647 
+<> CONTROL   #established socket
+   []
+   {'identity': b'gui', 'url': 'tcp://127.0.0.1:6009', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309ac8>}
+</>
+2017-11-24 16:17:33,647 
+<> CONTROL   #established socket
+   []
+   {'identity': b'httpout', 'url': 'tcp://127.0.0.1:5556', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309a68>}
+</>
+2017-11-24 16:17:33,647 
+<> CONTROL   #established socket
+   []
+   {'identity': b'module_installer', 'url': 'tcp://127.0.0.1:6018', 'socket': <zmq.sugar.socket.Socket object at 0x7f7912309b28>}
+</>
+2017-11-24 16:17:39,995 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f79123097c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 16:17:39,996 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "module_version": "v1", "resource_id": "newAsset"}']
+</>
+2017-11-24 16:17:39,996 
+<> CONTROL   #completed loop
+   []
+   1
+</>
+2017-11-24 16:17:39,997 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 16:17:39,997 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309a08>]
+   [b'database', b'gui', b'{"request": "getAssetInfo"}']
+</>
+2017-11-24 16:17:39,997 
+<> CONTROL   #completed loop
+   []
+   2
+</>
+2017-11-24 16:17:40,025 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309a08>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 16:17:40,036 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'gui', b'database', b'{"response": "{\\"Roboterarm\\": {\\"name\\": \\"Roboterarm\\", \\"shortInfo\\": \\"Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion\\", \\"thumbnail\\": \ ...
+</>
+2017-11-24 16:17:40,036 
+<> CONTROL   #completed loop
+   []
+   3
+</>
+2017-11-24 16:17:40,134 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 16:17:40,159 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f79123097c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 16:17:40,160 
+<> CONTROL   #completed loop
+   []
+   4
+</>
+2017-11-24 16:17:42,377 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f79123097c8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 16:17:42,377 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'\x00k\x8bEg', b'gui', b'httpin', b'{"request": "GET", "resource_id": "adds"}']
+</>
+2017-11-24 16:17:42,377 
+<> CONTROL   #completed loop
+   []
+   5
+</>
+2017-11-24 16:17:42,377 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 16:17:42,378 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309a08>]
+   [b'database', b'gui', b'{"request": "getAddInfo"}']
+</>
+2017-11-24 16:17:42,378 
+<> CONTROL   #completed loop
+   []
+   6
+</>
+2017-11-24 16:17:42,379 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309a08>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 16:17:42,379 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'gui', b'database', b'{"response": "{\\"remote_maintenance\\": {\\"title\\": \\"Remote Maintenance \\", \\"identity\\": \\"remote_maintenance\\", \\"info\\": \\"Make the remote control over the inte ...
+</>
+2017-11-24 16:17:42,379 
+<> CONTROL   #completed loop
+   []
+   7
+</>
+2017-11-24 16:17:42,403 
+<> CONTROL   #received message
+   [<zmq.sugar.socket.Socket object at 0x7f7912309ac8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 16:17:42,420 
+<> CONTROL   #send message
+   [<zmq.sugar.socket.Socket object at 0x7f79123097c8>]
+   [b'\x00k\x8bEg', b'httpin', b'gui', b'{"response": "<!DOCTYPE HTML>\\n<!--\\n\\tRead Only by HTML5 UP\\n\\thtml5up.net | @ajlkn\\n\\tFree for personal and commercial use under the CCA 3.0 license (htm ...
+</>
+2017-11-24 16:17:42,421 
+<> CONTROL   #completed loop
+   []
+   8
+</>

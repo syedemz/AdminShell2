@@ -1,0 +1,765 @@
+{% extends "GUI/templates/header.html" %} {% block body %} 
+
+<script>
+
+
+
+
+
+$(document).ready(function(){                                                   // $ Beginn von jQuery , (type/document/Auswahl der Elemente/was alles betroffen ist/ angesteuert werden).ready wenn alles geladen ist 
+    
+    //Alle button bis auf Glyphe finden und Kalibrieren disablen
+    $("#voreinstellung").prop('disabled', true);
+    $("#start1").prop('disabled', true);
+    $("#start2").prop('disabled', true);
+    $("#stop1").prop('disabled', true);
+    $("#stop2").prop('disabled', true);
+    $("#speichern").prop('disabled', true);
+
+
+
+
+    //Funktion, wenn das Dropdownfeld gewechselt wird
+    $("#sel1").on('change', function() {
+    
+    if (this.value == 0){
+    $("#Programm2").hide();
+    $("#Programm1").show();
+    $("#a1t").text("x-Abweichung")
+    $("#a2t").text("y-Abweichung")
+    $("#a3t").text("gesamt-Abweichung")
+    }
+    
+    if (this.value == 1){
+    $("#Programm1").hide();
+    $("#Programm2").show();
+    $("#a1t").text("Winkelabweichung Motor 1")
+    $("#a2t").text("Winkelabweichung Motor 2")
+    $("#a3t").text("Winkelabweichung Motor 3")
+    }
+
+    })
+    
+    $("#Programm2").hide();
+    $("#Programm1").show()
+    
+    
+    
+    
+    //Kalibrieren der Kamera
+    $("#Kalibrieren").click(function(){
+     
+    
+    $("#Prozess1").attr('class', 'panel panel-info');
+    $("#Prozess").text("Kalibriere: Bitte Schachbrettmuster vor die Kamera halten");
+    
+    var nachricht = {                                                           //nachricht verfasssen als Variable
+        "api_name": "VLACS",
+        "api_data": {"anweisung": "kalibrieren"}
+    }
+    
+    $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+    
+    {
+    JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+    },
+    function(result){      
+    
+    $("#Prozess1").attr('class', 'panel panel-primary');
+    $("#Prozess").text("Warte auf Anweisungen");   
+    });                                                      // Funktion was mit den Resultaten passiert
+    
+
+    });
+    
+    
+    
+    //Funktion zum Suchen der Glyphe_finden                                      //# wählt Id aus
+    $("#glyphe_finden").click(function(){
+    
+    
+    $("#Prozess1").attr('class', 'panel panel-info');
+    $("#Prozess").text("Suche Glyphe");                                       
+    
+        
+    
+    var nachricht = {                                                           //nachricht verfasssen als Variable
+        "api_name": "VLACS",
+        "api_data": {"anweisung": "glyphe_finden"}
+    }
+    
+    $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+    
+    {
+    JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+    },
+    function(result){                                                           // Funktion was mit den Resultaten passiert
+        $.each(result, function(i,field){
+        $("#panel").attr('class', 'panel panel-success');
+        $("#panel2").text(field);
+        $("#voreinstellung").prop('disabled', false);
+        $("#Prozess1").attr('class', 'panel panel-primary');
+        $("#Prozess").text("Warte auf Anweisungen")
+        
+        });
+    
+    
+    });
+
+    })   
+
+// Funktion für den Voreinstellungsbutton
+    $("#voreinstellung").click(function(){                                       //# wählt Id aus
+        
+        
+        $("#Prozess1").attr('class', 'panel panel-info');
+        $("#Prozess").text("Voreinstellungen zum Kalibriern wird bearbeitet")
+        
+        var nachricht = {                                                           //nachricht verfasssen als Variable
+            "api_name": "VLACS",
+            "api_data": {"anweisung": "voreinstellung"}
+        }
+        
+        $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+        
+        {
+        JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+        },
+        function(result){                                                           // Funktion was mit den Resultaten passiert
+            
+            $("#voreinstellung1").attr('class', 'panel panel-success');
+            $("#voreinstellung3").text(result.antwort)
+            $("#start1").prop('disabled', false);
+            $("#start2").prop('disabled', false);
+            $("#stop1").prop('disabled', false);
+            $("#stop2").prop('disabled', false);
+            $("#speichern").prop('disabled', false);
+            $("#Prozess1").attr('class', 'panel panel-primary');
+            $("#Prozess").text("Warte auf Anweisungen")
+
+    
+        });
+            
+     
+        }) ; 
+
+
+    //Funktion für den Kalibrierungsvorgang Motorwinkel       
+    $("#start2").click(function(){                                       //# wählt Id aus
+        
+        
+        $("#Prozess1").attr('class', 'panel panel-info');
+        $("#Prozess").text("Überprüfe Maschine")
+        
+        var motorG2 = "0";
+        var motorG3 = "0";
+        var motorG4 = "0";
+
+        
+        if($("#motor1").prop("checked") == true) {
+            motorG2 = "1";
+        } 
+        if($("#motor2").prop("checked") == true) {
+            motorG3 = "1";
+        } 
+        if($("#motor3").prop("checked") == true) {
+            motorG4 = "1";
+        } 
+        
+        var winkelG2 = $("#winkelG2").val()
+        var winkelG3 = $("#winkelG3").val()
+        var winkelG4 = $("#winkelG4").val()
+        
+        if (winkelG2 > 180 || winkelG2 < 0 || winkelG3 > 172 || winkelG3 < 0 || winkelG4 > 90 || winkelG4 <-90) {
+        alert("Falsche Eingabe")
+        return
+        }
+                if (winkelG2 == "" || winkelG3 == "" || winkelG4 == "") {
+        alert("Falsche Eingabe")
+        return
+        }
+                
+
+        
+        var nachricht = {                                                           //nachricht verfasssen als Variable
+            "api_name": "VLACS",
+            "api_data": {"anweisung": "start2" , "motorG2": motorG2, "motorG3": motorG3,"motorG4": motorG4, "winkelG2": winkelG2, "winkelG3": winkelG3, "winkelG4": winkelG4 }
+        }
+        
+        $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+        
+        {
+        JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+        },
+        function(result){                                                           // Funktion was mit den Resultaten passiert
+        
+        if (result.x_verhaeltnis_m1g == "False"|| result.y_verhaeltnis_m1g == "False"|| result.x_verhaeltnis_m2g == "False"|| result.y_verhaeltnis_m2g == "False") {return}
+       
+        
+        var abweichung_x = parseInt(result.abweichung_x)
+        var abweichung_y = parseInt(result.abweichung_y)
+        var abweichung_gesamt = parseInt(result.abweichung_gesamt)
+
+
+
+        $("#ausgabe").attr('class', 'panel panel-primary');
+        $("#ausgabe2").attr('class', 'panel panel-primary');
+        $("#ausgabe3").attr('class', 'panel panel-primary');
+        $("#abweichung_x").text(abweichung_x)
+        $("#abweichung_y").text(abweichung_y)
+        $("#gesamtabweichung").text(abweichung_gesamt)
+        $("#Prozess1").attr('class', 'panel panel-primary');
+        $("#Prozess").text("Warte auf Anweisungen")
+
+        
+            });
+        
+        
+        });
+
+  //Funktion für den Kalibrierungsvorgang Verfahrensrichtung        
+    $("#start1").click(function(){                                       //# wählt Id aus
+
+        
+        $("#Prozess1").attr('class', 'panel panel-info');
+        $("#Prozess").text("Überprüfe Roboter");
+
+        var mmy = $("#mmy").val()
+        var mmz = $("#mmz").val()
+        
+        if (mmy > 300 || mmz > 300) {
+        alert("Falsche Eingabe")
+        return
+        }
+        if (mmy == "" || mmz == "") {
+        alert("Falsche Eingabe")
+        return
+        }
+                
+
+        
+        var nachricht = {                                                           //nachricht verfasssen als Variable
+            "api_name": "VLACS",
+            "api_data": {"anweisung": "start1" ,"mmy": mmy, "mmz": mmz}
+        }
+        
+        $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+        
+        {
+        JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+        },
+        function(result){                                                           // Funktion was mit den Resultaten passiert
+                     
+        var abweichung_x = parseInt(result.abweichung_x)
+        var abweichung_y = parseInt(result.abweichung_y)
+        var abweichung_gesamt = parseInt(result.abweichung_gesamt)
+
+
+
+        $("#ausgabe").attr('class', 'panel panel-primary');
+        $("#ausgabe2").attr('class', 'panel panel-primary');
+        $("#ausgabe3").attr('class', 'panel panel-primary');
+        $("#abweichung_x").text(abweichung_x)
+        $("#abweichung_y").text(abweichung_y)
+        $("#gesamtabweichung").text(abweichung_gesamt)
+        $("#Prozess1").attr('class', 'panel panel-primary');
+        $("#Prozess").text("Warte auf Anweisungen")
+
+        
+            });
+        
+        
+        });
+
+    $("#stop2").click(function(){ 
+    
+    $("#Prozess1").attr('class', 'panel panel-info');
+    $("#Prozess").text("Programm wird gestoppt")
+    
+    var nachricht = {                                                           //nachricht verfasssen als Variable
+        "api_name": "VLACS",
+        "api_data": {"anweisung": "stop"}
+    }
+    
+    $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+    
+    {
+    JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+    },
+    function(result){     });                                                      // Funktion was mit den Resultaten passiert
+    
+    $("#Prozess1").attr('class', 'panel panel-primary');
+    $("#Prozess").text("Warte auf Anweisungen")
+    });
+   
+   
+   
+   
+   
+   
+    $("#stop1").click(function(){ 
+    
+    $("#Prozess1").attr('class', 'panel panel-info');
+    $("#Prozess").text("Programm wird gestoppt")
+    
+    var nachricht = {                                                           //nachricht verfasssen als Variable
+        "api_name": "VLACS",
+        "api_data": {"anweisung": "stop"}
+    }
+    
+    $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+    
+    {
+    JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+    },
+    function(result){ 
+    
+    $("#Prozess1").attr('class', 'panel panel-primary');
+    $("#Prozess").text("Warte auf Anweisungen")    });                                                      // Funktion was mit den Resultaten passiert
+    
+    
+    
+    }); 
+ 
+ 
+// Funktion für den Voreinstellungsbutton
+    $("#speichern").click(function(){                                       //# wählt Id aus
+        
+        
+        $("#Prozess1").attr('class', 'panel panel-info');
+        $("#Prozess").text("Wird gespeichert")
+        
+        var abweichung_x = document.getElementById("abweichung_x").innerHTML;
+        var abweichung_y = document.getElementById("abweichung_y").innerHTML;
+        var gesamtabweichung = document.getElementById("gesamtabweichung").innerHTML;
+        
+        var nachricht = {                                                           //nachricht verfasssen als Variable
+            "api_name": "VLACS",
+            "api_data": {"anweisung": "speichern", "abweichung_x": abweichung_x, "abweichung_y": abweichung_y , "gesamtabweichung" : gesamtabweichung}
+        }
+        
+        $.post("/apis",                                                             // url _ for ("blabla") sucht nach der URL hinter der die Funktion in Klammern "blabla" hinterlegt ist
+        
+        {
+        JSON: JSON.stringify(nachricht)                                             // macht einen string aus der Nachricht
+        },
+        function(result){                                                           // Funktion was mit den Resultaten passiert
+            
+
+            $("#Prozess").text("Warte auf Anweisungen")
+
+    
+        });
+            
+     
+        }) ; 
+
+ 
+ 
+ 
+ 
+ 
+ 
+})
+
+
+
+</script>
+
+<style type="text/css">
+
+#Anleitung{
+    position:relative;
+    top: 100px;
+    width: 1000px;
+}
+
+#ausgabe{
+    position:relative;
+    width: 1140px;
+    top: -70px;
+
+}
+#ausgabe2{
+    position:relative;
+    width: 1140px;
+    top: -70px;
+}
+#ausgabe3{
+    position:relative;
+    width: 1140px;
+    top: -70px;
+}
+
+
+#ausgabe_voreinstellung{
+
+    position: relative;
+     width: 300px;
+     height: 90px;
+}
+
+#auswahl {
+
+    position:relative;
+
+}
+
+button{
+
+    position:relative;
+
+}
+
+
+#glyphe_finden {
+
+     c
+     position: relative;
+     top: 0px;
+     left:-205px;
+     width: 170px;
+     height: 83px;
+}     
+
+#Kalibrieren{
+     font-size: 20px;
+    position:relative;
+    top: -120px;
+    left:935px;
+    width: 200px;
+    height: 50px;
+}
+
+
+#mm{
+    position:relative;
+
+}
+#mmx {
+    position: relative;
+
+
+}
+
+#mmy {
+    position: relative;
+
+
+}
+#mmz {
+    position: relative;
+
+
+}
+
+
+
+
+#panel {
+
+
+     position: relative;
+     top: -83px;
+     left: 200px;
+     width: 940px;
+     height: 85px;
+} 
+ 
+#panel2 {
+
+     position: relative;
+     top: -10px 
+    
+}         
+
+
+.panel-default > .panel-heading {
+    background: #C0C0C0; color: #000000;
+}
+
+.panel-info > .panel-heading {
+    background: #ff0000; color: #fff;
+}
+
+.panel-success > .panel-heading {
+    background: #32CD32; color: #000000;
+}
+.panel-danger > .panel-heading {
+    background: #800000; color: #fff;
+}
+
+
+#programm {
+
+    position:relative;
+    top: -150px;
+
+}
+
+#Programm2 {
+
+    position:relative;
+    top: -150px;
+
+}
+#Programm1{
+
+    position:relative;
+    top: -150px;
+
+}
+
+#Prozess{
+    position:relative;
+
+}
+
+#start {
+font-size: 20px;
+}
+
+#stop {
+font-size: 20px;
+}
+
+#start2 {
+font-size: 20px;
+}
+
+#stop2 {
+font-size: 20px;
+}
+
+
+#speichern{
+     font-size: 20px;
+    position:relative;
+    top: -70px;
+    width: 200px;
+    height: 50px;
+}
+
+
+
+#Prozess1{
+position: fixed;
+bottom: 0px;
+left: 841px;
+width: 570px;
+}
+
+#voreinstellung {
+     font-size: 20px;
+    position: relative;
+    top: -85px;
+    width: 250px;
+    height: 85px;
+}
+
+#voreinstellung1 {
+
+    position: relative;
+    top: -170px;
+    left: 280px;
+    width: 860px;
+    height: 85px;
+}
+#voreinstellung2 {
+
+     position: relative;
+     top: -5px 
+    
+} 
+
+#voreinstellung3 {
+
+     position: relative;
+     top: -10px     
+
+}       
+
+#winkel{
+    position:relative;
+
+
+}
+#winkelG2 {
+    position: relative;
+
+}
+
+#winkelG3 {
+    position: relative;
+
+}
+#winkelG4 {
+    position: relative;
+
+}
+
+
+
+</style>
+
+<h2>Willkommen beim</h2>
+<p>Visuell Localisation and Control System!<br>Eine ausführliche Anleitung zu den einzelnen Funktionen und Auswahlmöglichkeiten finden sie am Ende der Seite:<br>
+Bitte vorher prüfen ob die Kamera schon kalibriert wurde!<br>
+<br></p>
+<button type="button" class="btn btn-primary" id="Kalibrieren">Kamera kalibrieren</button>
+
+<button  type="button" class="btn btn-info" id="glyphe_finden">Glyphe finden</button>
+
+<div id="panel" class="panel panel-danger">
+  <div id="panel1" class="panel-heading">Gefundene Maschine</div>
+  <div id="panel2" class="panel-body">keine Maschine gefunden</div>
+</div>
+
+
+<button type="button" class="btn btn-primary" id="voreinstellung">Start Voreinstellung</button>
+
+<div id="voreinstellung1" class="panel panel-danger">
+  <div id="voreinstellung2" class="panel-heading">Gefundene Maschine</div>
+  <div id="voreinstellung3" class="panel-body">keine Maschine gefunden</div>
+</div>
+
+<div class="programm" id="programm">
+  <form>
+    <div class="form-group">
+      <label for="sel1">Programm auswahl:</label>
+      <select class="form-control" id="sel1">
+        <option value="0">Verfahrenswege</option>
+        <option value="1">Motorwinkel</option>
+      </select>
+      
+    </div>
+  </form>
+</div>
+
+<div id="Programm2">
+    <div class="container" id="auswahl">
+      <h2>Messung der Motoren: Auswahl</h2>
+      <p>Auswahl der zu überprüfenden Motoren. Es können 2 bs 4 Motoren ausgewählt werden:</p>
+      <form>
+        <div class="checkbox">
+          <label><input id="motor1" type="checkbox" value="">Motor G2</label>
+        </div>
+        <div class="checkbox">
+          <label><input id="motor2"  type="checkbox" value="">Motor G3</label>
+        </div>
+        <div class="checkbox">
+          <label><input id="motor3"  type="checkbox" value="" >Motor G4</label>
+        </div>
+      </form>
+    </div>
+    
+
+    <div class="form-group" id="winkel">
+      <label for="usr">Winkel Moter G2: zwischen 0 und 180 Grad <br>ohne Einheit <br>(Bewegung geht in Greiferrichtung)</label>
+      <input id="winkelG2" type="text" class="form-control" value="0">
+    </div>
+    <div class="form-group" id="winkel">
+      <label for="usr">Winkel Moter G3: zwischen 0 und 172 Grad <br>ohne Einheit <br>(Bewegung geht gegen Greiferrichtung)</label>
+      <input id="winkelG3" type="text" class="form-control" value="0">
+    </div>
+    <div class="form-group" id="winkel">
+      <label for="usr">Winkel Moter G3: zwischen -90 und 90 Grad <br>ohne Einheit <br>(Bewegung geht nach oben / unten)</label>
+      <input id="winkelG4" type="text" class="form-control" value="0">
+    </div>
+    <button type="button" class="btn btn-success" id="start2">Programm starten</button>
+    <button type="button" class="btn btn-warning" id="stop2">Stop</button>
+</div>
+
+<div id="Programm1">
+    <div class="form-group" id="mm">
+      <label for="usr">Verfahrensweg in y-Richtung <br> in mm (max 300) <br>(Bewegung geht in Greiferrichtung)</label>
+      <input id="mmy" type="text" class="form-control" value="0">
+    </div>
+    <div class="form-group" id="mm">
+      <label for="usr">Verfahrensweg in z-Richtung <br> in mm (max 300) <br>(Bewegung geht nach oben)</label>
+      <input id="mmz" type="text" class="form-control" value="0">
+    </div>
+    
+    <button type="button" class="btn btn-success" id="start1">Programm starten</button>
+    <button type="button" class="btn btn-warning" id="stop1">Stop</button>
+</div>
+
+<div class="panel panel-default" id="ausgabe">
+  <div class="panel-heading" id="a1t">y-Abweichung</div>
+  <div class="panel-body" id="abweichung_x">Keine Werte vorliegen</div>
+</div>
+<div class="panel panel-default" id="ausgabe2">
+  <div class="panel-heading" id="a2t">z-Abweichung</div>
+  <div class="panel-body" id="abweichung_y">Keine Werte vorliegend</div>
+</div>
+<div class="panel panel-default" id="ausgabe3">
+  <div class="panel-heading" id="a3t">Gesamtabweichung</div>
+  <div class="panel-body" id="gesamtabweichung">Keine Werte vorliegend</div>
+</div>
+
+<button type="button" class="btn btn-success" id="speichern">Speichern</button>
+
+<div class="container" id="Anleitung">
+  <h2>Bedinungsanleitung:</h2>
+  <div class="well well-lg">
+  1) Finden einer Maschine: <br>
+  <br>
+   Mit dem Betätigen des "Glyphe_finden" button wird nach einer passenden Maschine mit einer Glyhe gesucht.
+  Damit eine Maschine vom Programm erkannt werden kann, muss die zugewiesene Glyphe des Programms im Sichtbereich der Kamera liegen.
+  Nach dem eine Glyphe gefunden wird, welche zugelassen ist, werden die nächsten Schritte des Programmes frei gegeben. <br> 
+  <br>
+  2) Voreinstellung: <br>
+  <br>
+  Um eine Kalibrierung zu ermöglichen, muss die Maschine voreingestellt werden. 
+  Dabei wird die Drehung der Glyphe im Raum bestimmt und die Maschine so gerdeht, dass diese orthogonal zur Kamera steht.
+  So wird die Genauigkeit des Systems gesteigert.
+  Nach der Voreinstellung werden die Hauptprogramm der Appliaktion frei gegeben.<br>
+  <br>
+  
+  3) Hauptprogramm:<br>
+  <br>
+  3.1) Verfahrenswege:<br>
+  Das Verfahrenswege Programm überprüft die Maschine über vorgegebene Wege. 
+  Zu erst muss der Weg in x/y/z Richtung in Millimeter vorgegeben werden.
+  Das Programm nimmt mit Hilfe der Kamera ein Bild auf.
+  Danach wird der Roboter in die eingegebene Richtung bewegt.
+  Durch eine zweite Aufnachme des Bildes wird der Weg visuell berechnet und in Millimeter zurück gerechnet.
+  Durch den Abgleich des vorgegebenen Weges und des visuell bestimmten Weg, wird die Maschine überprüft.
+  Die Abweichung in die entsprechenden Richtungen wird dann in Millimeter auf der Benutzeroberfäche angezeigt.<br>
+  <br>
+  3.2) Motorwinkel:<br>
+  <br>
+  Motorwinkel einzelnd ansteuern<br>
+  <br>
+  4) Stoppen:<br>
+  <br> 
+  Über den Stopp button können die Programme jeder Zeit abgebrochen werden. 
+  Eventuell ist ein Neustart der Appliaktion von Nöten.<br>
+  <br>
+  5) Kalibrieren:<br>
+  <br>
+  Mit dem "Kalibrieren" button wird die Kamera Kalbriert.
+  Hier für wird ein Schachbrettmuster benötig.
+  Dieses Muster muss einer planen Ebene vor die Kamera gehalten werden. 
+  Es werden mehrer Bilder aufgenommen. Dabei sollte das Muster im Bild bewegt werden.
+  Anhand der Bilder wird die Kamera auf Verzerrungen überprüft und verbessert.
+  Falls noch die Kamera noch nie Kalbriert wurde ist dies Notwendig!<br>
+  <br>
+  Prozessfenster:<br>
+  <br>
+  Im Prozessfenster wird angeziegt, was gerade ausgeführt wird.
+  Wenn im Prozesfenster "Warte auf Anweisungen steht" wird kein Programm zur Zeit ausgeführt.
+  Es ist zu empfehlen immer nur ein Programm zur Zeit auszuführen! Mehrfache Starts können zu Problemen im Programm führen!
+
+  </div>
+</div>
+
+
+<div class="panel panel-primary" id="Prozess1">
+    <div class="panel-heading" id="Prozess2">Prozess:</div>
+  <div class="panel-body" id="Prozess">Warte auf Anweisungen</div>
+</div>
+
+
+
+{% endblock %} 

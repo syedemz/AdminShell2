@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><Functionality>
+<add id="remote_maintenance">
+    <title>Remote Maintenance </title>
+    <socket>REMOTE_MAINTENANCE</socket>
+    <port>6015</port>
+    <main>robot_server</main>
+    <info>Make the remote control over the internet possible. Required: Robotarm Interface. Required if the robotarm is not connected: Robotarm Dummy</info>
+    <template>http://127.0.0.1:40000</template>
+  </add></Functionality>

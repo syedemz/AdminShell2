@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdm xmlns="https://www.w3.org/2005/Incubator/omm/elements/1.0/" xmlns:omm="https://www.w3.org/2005/Incubator/omm/elements/1.0/">
+
+<omm:header>
+    <omm:version>1.0</omm:version>
+    <omm:primaryID omm:type="url">http://www.DatenbankDaten.OMM_Memory_VS_main.de</omm:primaryID>
+</omm:header>
+
+
+
+<omm:toc>
+
+  <omm:element omm:id="00000">
+		
+    <omm:title xml:lang="en">Basic Data of the Verwaltungsschale</omm:title>
+    <omm:title xml:lang="de">Basisdaten der Verwaltungsschale</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-02-01T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-02-02T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">What am I? What is my meaning of life? ...?</omm:description>
+    <omm:description xml:lang="de">Was bin ich? Was ist mein Sinn des Lebens? ...?</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="ID der Verwaltungsschale"/>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+    </omm:subject>
+	
+  </omm:element>
+
+  <omm:element omm:id="00001">
+    
+    <omm:title xml:lang="en">Reference of a Verwaltungsschale</omm:title>
+    <omm:title xml:lang="de">Referenz auf eine Verwaltungsschale</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Reference of the Verwaltungsschale with the PrimaryID http://www.Verwaltungsschale.DatenbankDaten.OMM_Memory_VS_main.de</omm:description>
+    <omm:description xml:lang="de">Referenz auf die Verwaltungsschale mit der PrimaryID http://www.Verwaltungsschale.DatenbankDaten.OMM_Memory_VS_main.de</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+  </omm:element>
+
+  <omm:element omm:id="10001">
+    
+    <omm:title xml:lang="en">OMM_Object_Memory_Application_0001</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Applikation_0001</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the application 1</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Applikation 1</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+  </omm:element>
+
+
+  <omm:element omm:id="10002">
+
+    <omm:title xml:lang="en">OMM_Object_Memory_Application_0002</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Applikation_0002</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the application 2</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Applikation 2</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+
+  </omm:element>
+  
+
+  <omm:element omm:id="10003">
+
+    <omm:title xml:lang="en">OMM_Object_Memory_Application_0003</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Applikation_0003</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the application 3</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Applikation 3</omm:description>
+    
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+  </omm:element>
+  
+
+  <omm:element omm:id="20001">
+
+    <omm:title xml:lang="en">OMM_Object_Memory_Entity_0001</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Gegenstand_0001</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">application/xml</omm:format>
+    
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the functional data</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Funktionsdaten</omm:description>
+    
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+  </omm:element>
+  
+
+</omm:toc>
+
+<omm:block omm:id="00000">
+		
+    <omm:title xml:lang="en">Basic Data of the Verwaltungsschale</omm:title>
+    <omm:title xml:lang="de">Basisdaten der Verwaltungsschale</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-02-01T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-02-02T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">What am I? What is my meaning of life? ...?</omm:description>
+    <omm:description xml:lang="de">Was bin ich? Was ist mein Sinn des Lebens? ...?</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="ID der Verwaltungsschale"/>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+    </omm:subject>
+	
+	<omm:payload omm:encoding="base64">C:\...\DatenbankDaten\DatenbankPayload\VS_Basisdaten_ID.pdf</omm:payload>
+	
+</omm:block>
+
+
+<omm:block omm:id="00001">
+		
+    <omm:title xml:lang="en">Reference of a Verwaltungsschale</omm:title>
+    <omm:title xml:lang="de">Referenz auf eine Verwaltungsschale</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2017-02-01T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2017-02-02T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Reference of the Verwaltungsschale with the PrimaryID http://www.Verwaltungsschale.DatenbankDaten.OMM_Memory_VS_main.de</omm:description>
+    <omm:description xml:lang="de">Referenz auf die Verwaltungsschale mit der PrimaryID http://www.Verwaltungsschale.DatenbankDaten.OMM_Memory_VS_main.de</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+	
+	<omm:payload omm:encoding="base64">https://Verwaltungsschale/12345/DatenbankDaten/OMM_Memory_VS_main.de</omm:payload>
+	
+</omm:block>
+
+
+<omm:block omm:id="10001">
+		
+    <omm:title xml:lang="en">OMM_Object_Memory_Application_0001</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Applikation_0001</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the application 1</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Applikation 1</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+	
+	<omm:payload omm:encoding="base64">C:\Users\Sonja\Documents\PYTHON_Scripts\VerwaltungsschaleDatenbank\DatenbankDaten\OMM_Memory_App_0001.xml</omm:payload>
+	
+</omm:block>
+
+
+<omm:block omm:id="10002">
+
+    <omm:title xml:lang="en">OMM_Object_Memory_Application_0002</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Applikation_0002</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the application 2</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Applikation 2</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+	
+	<omm:payload omm:encoding="base64">C:\Users\Sonja\Documents\PYTHON_Scripts\VerwaltungsschaleDatenbank\DatenbankDaten\OMM_Memory_App_0002.xml</omm:payload>
+    
+</omm:block>
+
+
+<omm:block omm:id="10003">
+
+    <omm:title xml:lang="en">OMM_Object_Memory_Application_0003</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Applikation_0003</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the application 3</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Applikation 3</omm:description>
+
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+    <omm:payload omm:encoding="base64">C:\Users\Sonja\Documents\PYTHON_Scripts\VerwaltungsschaleDatenbank\DatenbankDaten\OMM_Memory_App_0003.xml</omm:payload>
+    
+</omm:block>
+
+
+<omm:block omm:id="20001">
+
+    <omm:title xml:lang="en">OMM_Object_Memory_Entity_0001</omm:title>
+    <omm:title xml:lang="de">OMM_Objektgedächtnis_Gegenstand_0001</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">application/xml</omm:format>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2016-08-25T16:30:00+01:00</omm:date>
+    </omm:creation>
+    
+    <omm:contribution>
+      <omm:contributor omm:type="email">user@example.com</omm:contributor>
+      <omm:date omm:encoding="ISO8601">2016-08-25T15:30:00+01:00</omm:date>
+    </omm:contribution>
+
+    <omm:description xml:lang="en">Description of the functional data</omm:description>
+    <omm:description xml:lang="de">Beschreibung der Funktionsdaten</omm:description>
+    
+    <omm:type>http://purl.org/dc/dcmitype/Dataset</omm:type>
+
+    <omm:subject>
+      <omm:tag omm:type="ontology" omm:value="http://o.org/def.owl#ManufacturerData"/>
+      <omm:tag omm:type="ontology" omm:value="http://www.w3.org/2005/Incubator/omm/ontologies/v1/phase.owl#Production"/>
+      <omm:tag omm:type="text" omm:value="ingredients"/>
+      <omm:tag omm:type="text" omm:value="norms">
+        <omm:tag omm:type="text" omm:value="din">
+          <omm:tag omm:type="text" omm:value="e12"/>
+        </omm:tag>
+      </omm:tag>
+    </omm:subject>
+    
+	<omm:payload omm:encoding="base64">C:\Users\Sonja\Documents\PYTHON_Scripts\VerwaltungsschaleDatenbank\DatenbankDaten\OMM_Memory_Entity_0001.xml</omm:payload>
+    
+</omm:block>
+
+
+</mdm>

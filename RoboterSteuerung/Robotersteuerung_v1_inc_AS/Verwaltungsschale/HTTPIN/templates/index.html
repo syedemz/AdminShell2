@@ -1,0 +1,183 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>i4.0 Verwaltungsschale</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="{{ url_for('static', filename='assets/css/main.css')}}" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src= {{ url_for('static', filename ='images/avatar.jpg') }} alt="" /></span>
+					<h1 id="logo"><a href="#">i4.0</a></h1>
+					<p>Technische Universität Darmstadt
+						<br />Datenverarbeitung in der Konstruktion
+						<br />Prototyp
+					</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">index</a></li>
+						<li><a href="#two">information</a></li>
+						<li><a href="#three">api section</a></li>
+						<li><a href="#four">partner</a></li>
+						<li><a href="#five">contact</a></li>
+
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="container">
+									<header class="major">
+										<h2>i4.0 Administration Shell Application</h2>
+										<p>Remote Maintenance Plattform<br />
+										</p>
+									</header>
+									<p>ipv4 address: 138.68.65.90
+									<br>gateway: 138.68.64.1
+									<br>netmask: c</p>
+									<p>ipv6 address: 2a03:b0c0:3:d0::42d2:f001</p>
+
+
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+
+								<div class="container">
+
+
+									<h3>Information</h3>
+
+									<p> <img src={{ url_for('static', filename ='images/rami.png') }} alt="RAMI" style="width:800px;height:500px;">
+
+									</p>
+								</div>
+
+							</section>
+
+							<!-- three -->
+								<section id="three">
+									<div class="container">
+										<h3>API section</h3>
+										<p>API are magnificant </p>
+
+									</div>
+								</section>
+
+						<!-- four -->
+							<section id="four">
+								<div class="container">
+									<h3>Partner</h3>
+									<p>We love our partners</p>
+									<div class="features">
+										<article>
+											<a href="http://www.plattform-i40.de/I40/Navigation/DE/Home/home.html" class="image"><img src= {{ url_for('static', filename ='images/pic01.jpg') }} alt="" /></a>
+											<div class="inner">
+												<h4>Plattform Industrie 4.0</h4>
+												<p>A</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src= {{ url_for('static', filename ='images/pic02.jpg') }} alt="" /></a>
+											<div class="inner">
+												<h4>Bundesministerien</h4>
+												<p><a href="http://www.bmwi.de/">Bundesministerium für Wirtschaft und Energie</a></p>
+												<p><a href="https://www.bmbf.de/">Bundesministerium für Bildung und Forschung</a></p>
+											</div>
+										</article>
+										<article>
+											<a href="https://www.tu-darmstadt.de/" class="image"><img src= {{ url_for('static', filename ='images/pic03.jpg') }} alt="" /></a>
+											<div class="inner">
+												<h4>Technische Universität Darmstadt</h4>
+												<p>B</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						<!-- Five -->
+							<section id="five">
+								<div class="container">
+									<h3>contact</h3>
+									<p>
+										In order to contact us, please use the following form
+										</p>
+									<form method="post" action="#">
+										<div class="row uniform">
+											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="name" /></div>
+											<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="email" /></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u"><input type="text" name="subject" id="subject" placeholder="subject" /></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u"><textarea name="message" id="message" placeholder="message" rows="6"></textarea></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<ul class="actions">
+													<li><input type="submit" class="special" value="submit" /></li>
+													<li><input type="reset" value="reset" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; DiK TU Darmstadt. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+		<script src="{{ url_for('static', filename='assets/js/jquery.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/jquery.scrollzer.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/jquery.scrolly.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/skel.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/util.js')}}"></script>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="{{ url_for('static', filename='assets/js/main.js')}}"></script>
+
+
+	</body>
+</html>

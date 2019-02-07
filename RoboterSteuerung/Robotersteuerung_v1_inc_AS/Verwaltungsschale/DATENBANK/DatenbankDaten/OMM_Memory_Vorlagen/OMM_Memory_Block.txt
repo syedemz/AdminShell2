@@ -1,0 +1,45 @@
+  <omm:element omm:id="!!!">
+		
+    <omm:title xml:lang="en">???</omm:title>
+    <omm:title xml:lang="de">???</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">???</omm:creator>
+      <omm:date omm:encoding="ISO8601">!!!</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">???</omm:description>
+    <omm:description xml:lang="de">???</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="???"/>
+    </omm:subject>
+	
+  </omm:element>
+
+===============================================================================
+
+<omm:block omm:id="!!!">
+		
+    <omm:title xml:lang="en">???</omm:title>
+    <omm:title xml:lang="de">???</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">???</omm:creator>
+      <omm:date omm:encoding="ISO8601">!!!</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">???</omm:description>
+    <omm:description xml:lang="de">???</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="???"/>
+    </omm:subject>
+	
+	<omm:payload omm:encoding="base64">???</omm:payload>
+	
+</omm:block>

@@ -1,0 +1,176 @@
+<?xml version="1.0" ?><mdm xmlns="https://www.w3.org/2005/Incubator/omm/elements/1.0/" xmlns:omm="https://www.w3.org/2005/Incubator/omm/elements/1.0/">
+	
+
+
+	<omm:header>
+		
+    
+		<omm:version>1.0</omm:version>
+		
+    
+		<omm:primaryID omm:type="url">http://ichbineinbeispiel/1/</omm:primaryID>
+		
+
+	</omm:header>
+	
+
+
+
+	<omm:toc>
+		
+
+  
+		<omm:element omm:id="00000">
+			
+		
+    
+			<omm:title xml:lang="en">---NEW---</omm:title>
+			
+    
+			<omm:title xml:lang="de">---NEW---</omm:title>
+			
+
+    
+			<omm:namespace>---NEW---</omm:namespace>
+			
+
+    
+			<omm:creation>
+				
+      
+				<omm:creator omm:type="duns">123456789</omm:creator>
+				
+      
+				<omm:date omm:encoding="ISO8601">2017-04-17T00:58:23</omm:date>
+				
+    
+			</omm:creation>
+			
+
+    
+			<omm:description xml:lang="en">---NEW---</omm:description>
+			
+    
+			<omm:description xml:lang="de">---NEW---</omm:description>
+			
+
+    
+			<omm:subject>
+				
+      
+				<omm:tag omm:type="text" omm:value="ID: Hier sollte die ID (URL) des Subjekts stehen, dessen Dokument dies ist!"/>
+				
+      
+				<omm:tag omm:type="text" omm:value="Keine weiteren Daten gespeichert"/>
+				
+    
+			<omm:tag omm:type="text">---NEW---</omm:tag><omm:tag omm:type="text">---NEW---</omm:tag><omm:tag omm:type="text">---NEW---</omm:tag><omm:tag omm:type="text">---NEW---</omm:tag></omm:subject>
+			
+	
+  
+		<omm:contribution><omm:contributor omm:type="duns">---NEW---</omm:contributor><omm:date omm:encoding="ISO8601">2017-04-17T05:26:49</omm:date></omm:contribution><omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">wertzu</omm:format><omm:type>---NEW---</omm:type></omm:element>
+		
+
+
+	<omm:element omm:id="38454">
+        		
+    <omm:title xml:lang="en">#######T#######</omm:title>
+    <omm:title xml:lang="de">#######T#######</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2017-04-17T04:56:43</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">#######D#######</omm:description>
+    <omm:description xml:lang="de">#######D#######</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="Keine weiteren Daten gespeichert"/>
+    </omm:subject>
+	
+  </omm:element></omm:toc>
+	
+
+
+
+	<omm:block omm:id="00000">
+		
+		
+    
+		<omm:title xml:lang="en">---NEW---</omm:title>
+		
+    
+		<omm:title xml:lang="de">---NEW---</omm:title>
+		
+
+    
+		<omm:namespace>---NEW---</omm:namespace>
+		
+
+    
+		<omm:creation>
+			
+      
+			<omm:creator omm:type="duns">123456789</omm:creator>
+			
+      
+			<omm:date omm:encoding="ISO8601">2017-04-17T00:58:23</omm:date>
+			
+    
+		</omm:creation>
+		
+
+    
+		<omm:description xml:lang="en">---NEW---</omm:description>
+		
+    
+		<omm:description xml:lang="de">---NEW---</omm:description>
+		
+
+    
+		<omm:subject>
+			
+      
+			<omm:tag omm:type="text" omm:value="ID: Hier sollte die ID (URL) des Subjekts stehen, dessen Dokument dies ist!"/>
+			
+      
+			<omm:tag omm:type="text" omm:value="Keine weiteren Daten gespeichert"/>
+			
+    
+		<omm:tag omm:type="text">---NEW---</omm:tag><omm:tag omm:type="text">---NEW---</omm:tag><omm:tag omm:type="text">---NEW---</omm:tag><omm:tag omm:type="text">---NEW---</omm:tag></omm:subject>
+		
+	
+    
+		<omm:payload omm:encoding="base64">Leerer Payload</omm:payload>
+		
+	
+
+	<omm:contribution><omm:contributor omm:type="duns">---NEW---</omm:contributor><omm:date omm:encoding="ISO8601">2017-04-17T05:26:49</omm:date></omm:contribution><omm:format omm:encryption="none" omm:schema="http://dummy.org/sample.xsd">wertzu</omm:format><omm:type>---NEW---</omm:type></omm:block>
+	
+
+
+<omm:block omm:id="38454">
+        		
+    <omm:title xml:lang="en">#######T#######</omm:title>
+    <omm:title xml:lang="de">#######T#######</omm:title>
+
+    <omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+
+    <omm:creation>
+      <omm:creator omm:type="duns">123456789</omm:creator>
+      <omm:date omm:encoding="ISO8601">2017-04-17T04:56:43</omm:date>
+    </omm:creation>
+
+    <omm:description xml:lang="en">#######D#######</omm:description>
+    <omm:description xml:lang="de">#######D#######</omm:description>
+
+    <omm:subject>
+      <omm:tag omm:type="text" omm:value="Keine weiteren Daten gespeichert"/>
+    </omm:subject>
+	
+	<omm:payload omm:encoding="base64">C:\Users\Sonja\Documents\PYTHON_Scripts\VerwaltungsschaleDatenbank\DatenbankDaten\Testlauf_Erstellen_main.xml</omm:payload>
+	
+</omm:block></mdm>

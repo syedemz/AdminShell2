@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>i4.0 Verwaltungsschale</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="{{ url_for('static', filename='assets/css/main.css')}}" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src= {{ url_for('static', filename ='images/avatar.jpg') }} alt="" /></span>
+					<h1 id="logo"><a href="#">i4.0</a></h1>
+					<p>Technische Universität Darmstadt
+						<br />Datenverarbeitung in der Konstruktion
+						<br />Prototyp
+					</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">index</a></li>
+
+
+					</ul>
+				</nav>
+
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+
+
+						<!-- Five -->
+							<section id="five">
+								<div class="container">
+									<h3>JSON API Request</h3>
+									<p>
+										In order to make a request, please use the following form
+										</p>
+									<form method="post" action="{{ url_for('apis') }}">
+
+										<div class="row uniform">
+											<div class="12u"><textarea name="JSON" id="JSON" placeholder="JSON" rows="6"></textarea></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<ul class="actions">
+													<li><input type="submit" class="special" value="submit" /></li>
+													<li><input type="reset" value="reset" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; DiK TU Darmstadt. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+		<script src="{{ url_for('static', filename='assets/js/jquery.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/jquery.scrollzer.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/jquery.scrolly.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/skel.min.js')}}"></script>
+		<script src="{{ url_for('static', filename='assets/js/util.js')}}"></script>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="{{ url_for('static', filename='assets/js/main.js')}}"></script>
+
+
+	</body>
+</html>

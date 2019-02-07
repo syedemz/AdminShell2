@@ -1,0 +1,52 @@
+{% extends "GUI/templates/header.html" %}
+{% block body %}
+    <div class="container">
+      <div class="jumbotron">
+        <h1> Das Lustige Zahlenspiel in der Verwaltungsschale </h1>
+        <p> Erraten Sie die richtige Zahl und erhalten sie den Tagespreis </p>
+      </div>
+    </div>
+    <div class="col-sm-4 well" style="text-align: center">
+      <input type="text" id="number" style="margin-top: 50px" placeholder="Zahl"></input>
+      </br>
+      </br>
+      <div class="btn-group">
+        <button class="btn-lg btn-primary" id="send">Send</button>
+        <button class="btn-lg btn-primary" id="reset">reset</button>
+      </div>
+    </div>
+    <div class="col-sm-8 well">
+      <h1>Hier sehen sie ihr Ergebnis</h1>
+      <p id="ausgabe"></p>
+    </div>
+
+  <script>
+  $(document).ready(function(){
+
+    $("#reset").click(function(){
+      $("#number").val("");
+    })
+
+    $("#send").click(function(){
+
+      var req = {
+        "api_name": "API_GAMES",
+        "api_data": {"number": $("#number").val()}
+      }
+
+      $.post("/apis",
+      {
+        JSON: JSON.stringify(req)
+      },
+      function(result){
+        $.each(result, function(i, field){
+            $("#ausgabe").append(field + " ");
+          });
+        $("#ausgabe").append("<br>")
+        });
+      });
+
+  });
+  </script>
+
+{% endblock %}

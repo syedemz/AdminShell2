@@ -1,0 +1,1 @@
+Parameter = {'Maschine': {'abweichung_x': '-33', 'abweichung_y': '-2', 'gesamtabweichung': '33'}}

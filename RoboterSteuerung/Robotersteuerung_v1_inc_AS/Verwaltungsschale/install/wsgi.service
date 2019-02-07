@@ -1,0 +1,13 @@
+[Unit]
+Description=wsgi
+After=network.target
+
+[Service]
+User=USR
+Group=www-data
+WorkingDirectory=DIR
+Environment="PATH=DIR/projectenv/bin"
+ExecStart=DIR/projectenv/bin/uwsgi --ini wsgi.ini
+
+[Install]
+WantedBy=multi-user.target

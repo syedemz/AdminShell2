@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Log in robot</title>
+		<link rel=stylesheet type=text/css href="../static/css/style.css">
+
+	</head>
+
+	<body>
+		<div id="container">
+			<div class="title">
+				<h1>Log In onto the Robot Arm</h1>
+			</div>
+			<div id="content">
+				<form method="post" action="{{ url_for('robot_login_data') }}">
+					<label for="yourname">Please enter your name:</label>
+					<input type="text" name="username" placeholder="your username" required autofocus/>
+					<br />
+					<label for="password">Please enter password:</label>
+					<input type="password" name="password" placeholder="your password" required/>
+					<br />
+					<br />
+					<input type="submit" />
+					<a href="http://127.0.0.1:5000/GUI/roboterarm/adds"  class="btn btn-primary  active"> Back to Adds </a>
+				</form>
+			</div>
+		</div>
+	</body>
+
+</html>

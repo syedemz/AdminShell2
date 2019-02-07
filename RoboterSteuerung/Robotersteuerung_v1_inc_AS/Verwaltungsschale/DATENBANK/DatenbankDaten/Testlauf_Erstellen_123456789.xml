@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<mdm xmlns="https://www.w3.org/2005/Incubator/omm/elements/1.0/" xmlns:omm="https://www.w3.org/2005/Incubator/omm/elements/1.0/">
+	
+
+
+	<omm:header>
+		
+    
+		<omm:version>1.0</omm:version>
+		
+    
+		<omm:primaryID omm:type="url">http://ichbineinbeispiel/1/</omm:primaryID>
+		
+
+	</omm:header>
+	
+
+
+
+	<omm:toc>
+		
+
+  
+		<omm:element omm:id="00000">
+			
+		
+    
+			<omm:title xml:lang="en">Basic Data</omm:title>
+			
+    
+			<omm:title xml:lang="de">Basisdaten</omm:title>
+			
+
+    
+			<omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+			
+
+    
+			<omm:creation>
+				
+      
+				<omm:creator omm:type="duns">123456789</omm:creator>
+				
+      
+				<omm:date omm:encoding="ISO8601">2017-04-10T19:01:53</omm:date>
+				
+    
+			</omm:creation>
+			
+
+    
+			<omm:description xml:lang="en">#######D#######</omm:description>
+			
+    
+			<omm:description xml:lang="de">#######D#######</omm:description>
+			
+
+    
+			<omm:subject>
+				
+      
+				<omm:tag omm:type="text" omm:value="ID: Hier sollte die ID (URL) des Subjekts stehen, dessen Dokument dies ist!"/>
+				
+      
+				<omm:tag omm:type="text" omm:value="Keine weiteren Daten gespeichert"/>
+				
+    
+			</omm:subject>
+			
+	
+  
+		</omm:element>
+		
+
+
+	</omm:toc>
+	
+
+
+
+	<omm:block omm:id="00000">
+		
+		
+    
+		<omm:title xml:lang="en">Basic Data</omm:title>
+		
+    
+		<omm:title xml:lang="de">Basisdaten</omm:title>
+		
+
+    
+		<omm:namespace>http://www.w3.org/2005/Incubator/omm/ns/sample</omm:namespace>
+		
+
+    
+		<omm:creation>
+			
+      
+			<omm:creator omm:type="duns">123456789</omm:creator>
+			
+      
+			<omm:date omm:encoding="ISO8601">2017-04-10T19:01:53</omm:date>
+			
+    
+		</omm:creation>
+		
+
+    
+		<omm:description xml:lang="en">#######D#######</omm:description>
+		
+    
+		<omm:description xml:lang="de">#######D#######</omm:description>
+		
+
+    
+		<omm:subject>
+			
+      
+			<omm:tag omm:type="text" omm:value="ID: Hier sollte die ID (URL) des Subjekts stehen, dessen Dokument dies ist!"/>
+			
+      
+			<omm:tag omm:type="text" omm:value="Keine weiteren Daten gespeichert"/>
+			
+    
+		</omm:subject>
+		
+	
+    
+		<omm:payload omm:encoding="base64">Leerer Payload</omm:payload>
+		
+	
+
+	</omm:block>
+	
+
+
+</mdm>

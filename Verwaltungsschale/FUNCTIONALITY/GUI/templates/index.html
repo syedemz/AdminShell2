@@ -1,0 +1,155 @@
+{% extends "GUI/templates/header.html" %}
+{% block body %}
+{# {{ variables }} #}
+
+<!-- {"Roboterarm": {"name": "Roboterarm", "shortInfo": "Ein Demonstrator des Instituts: Datenverarbeitung in der Konstruktion (DiK)", "url": "/robote
+{\\"Bild_des_Roboterarms\\": {\\"blockLink\\": \\"data/images/sideview_left.png\\", \\"blockTitle\\": \\"Bild_des_Roboterarms\\", \\"blockPayload\\": \\"Payload - viewI -->
+
+
+<div class="container-fluid" style="margin:0 auto; ">
+  <div class="[ col-xs-offset-0 col-xs-12 col-sm-offset-0 col-sm-12 ]">
+
+<!-- EINE BOX-SPALTE -->
+<div class="col-sm-7 col-lg-7 well">
+  <!-- INFORMATION BLOCK -->
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h3 class="panel-title"> Info Roboterarm </h3>
+    </div>
+    <div class ="panel-body"
+      <div class="media">
+        <div class="media-left media-middle">
+          <a>
+
+            <img class="media-object" id = "link"  alt="Ansicht konnte nicht geladen werden.">
+
+          </a>
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Herstellerangaben: </h4>
+          <p>
+
+
+            Hersteller: Franconia Robotix </br>
+            Gewicht: 5 kg </br>
+            Anzahl Achsen: 5 </br>
+            Maximale Reichweite: 50 cm </br>
+            Betriebsspannung: 5V </br>
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="col-sm-12 col-lg-12">
+  <div class="panel panel-info" style= "width: 95%; margin:0 auto;">
+    <div class="carousel slide" id="myCarousel">
+            <div class="carousel-inner">
+                <div class="item active">
+                        <ul class="thumbnails" style="list-style: none;">
+                            <li class="col-sm-3">
+                  						<div class="fff">
+                								<div class="thumbnail">
+                									<a href="#"><img id = "pic1" alt=""></a>
+                								</div>
+                								<div class="caption">
+                									<h4>Motoren</h4>
+                									<p>Modelbaumotoren bla bla</p>
+                									<a class="btn btn-mini" href="#">» Zum Asset</a>
+              								  </div>
+                              </div>
+                            </li>
+                            <li class="col-sm-3">
+                  						<div class="fff">
+                								<div class="thumbnail">
+                									<a href="#"><img id = "pic2"  alt=""></a>
+                								</div>
+                								<div class="caption">
+                									<h4>Arduino</h4>
+                									<p>Arduino Uno als Motortreiber</p>
+                									<a class="btn btn-mini" href="#">» Zum Asset</a>
+              								  </div>
+                              </div>
+                            </li>
+                            <li class="col-sm-3">
+                  						<div class="fff">
+                								<div class="thumbnail">
+                									<a href="#"><img id = "pic3"  alt=""></a>
+                								</div>
+                								<div class="caption">
+                									<h4>Greifer</h4>
+                									<p>Ein 3D-gedruckter Greifer</p>
+                									<a class="btn btn-mini" href="#">» Zum Asset</a>
+              								  </div>
+                              </div>
+                            </li>
+                            <li class="col-sm-3">
+                  						<div class="fff">
+                								<div class="thumbnail">
+                									<a href="#"><img id = "pic4"  alt=""></a>
+                								</div>
+                								<div class="caption">
+                									<h4>Raspberri Pi</h4>
+                									<p>Mini Computer</p>
+                									<a class="btn btn-mini" href="#">» Zum Asset</a>
+              								  </div>
+                              </div>
+                            </li>
+                        </ul>
+                  </div><!-- /Slide3 -->
+            </div>
+
+
+    	   <nav>
+    			<ul class="control-box pager">
+    				<li><a data-slide="prev" href="#myCarousel" class=""><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+    				<li><a data-slide="next" href="#myCarousel" class=""><i class="glyphicon glyphicon-chevron-right"></i></li>
+    			</ul>
+    		</nav>
+    	   <!-- /.control-box -->
+
+
+
+        </div><!-- /#myCarousel -->
+
+
+  </div>
+</div>
+</div>
+</div>
+
+<script>
+<!-- this script decodes and loads image data into the image tags in the html -->
+var pre = "data:image/jpg;base64,"
+var assets = {{ variables | safe }};
+var jpg = JSON.stringify(assets.blockImage1);
+jpg2 = jpg.replace(/['"]+/g, '')
+source1 = pre.concat(jpg2);
+document.getElementById("pic1").src = source1;
+
+var jpg3 = JSON.stringify(assets.blockImage2);
+jpg4 = jpg.replace(/['"]+/g, '')
+source2 = pre.concat(jpg4);
+document.getElementById("pic2").src = source2;
+
+var jpg5 = JSON.stringify(assets.blockImage3);
+jpg6 = jpg5.replace(/['"]+/g, '')
+source3 = pre.concat(jpg6);
+document.getElementById("pic3").src = source3;
+
+var jpg7 = JSON.stringify(assets.blockImage4);
+jpg8 = jpg7.replace(/['"]+/g, '')
+source4 = pre.concat(jpg8);
+document.getElementById("pic4").src = source4;
+
+var jpg8 = JSON.stringify(assets.blockImage5);
+jpg9 = jpg8.replace(/['"]+/g, '')
+source5 = pre.concat(jpg9);
+document.getElementById("link").src = source5;
+
+</script>
+
+{% endblock %}

@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2f78dfa-2436-41a8-bc53-2d5fe94f319f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/api_robotarm/Roboterparameter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/api_robotarm/api_robotarm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/Glyphe_erkennen.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/Glyphenwinkel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/Glyphmittelpunkt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/Kamerakalibrierung.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/templates/vlacs_gui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/vlacs.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Fernwartungsplattform.iml" afterPath="$PROJECT_DIR$/.idea/Fernwartungsplattform.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/DATABASE/info.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/DATABASE/info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/DATABASE/installed_adds.xml" afterPath="$PROJECT_DIR$/Verwaltungsschale/DATABASE/installed_adds.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/template_creation.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/template_creation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/configuration.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/configuration.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/module.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/module.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/data/data.json" afterPath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/data/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/robot_server.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/robot_server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPIN/flask_server.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPIN/flask_server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPOUT/http_requests.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPOUT/http_requests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Verwaltungsschale/startShell.py" afterPath="$PROJECT_DIR$/Verwaltungsschale/startShell.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="installed_adds.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/installed_adds.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configuration.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/configuration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="broker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/CONTROL/broker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="e#464#474#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1656">
+              <caret line="93" column="68" lean-forward="false" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
+              <folding>
+                <marker date="1511866465403" expanded="true" signature="45:84" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="86:258" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="613:5301" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="692:1785" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="701:1479" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="1802:5301" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="1811:1926" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="1940:5163" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="1953:2034" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="2273:4268" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="2290:2347" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="2486:2833" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="2507:2572" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="2879:3016" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3061:3195" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3240:3372" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3419:3838" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3440:3574" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3607:3764" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3900:4010" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="3921:3985" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="4028:4118" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="4352:4797" ph="..." />
+                <marker date="1511866465403" expanded="true" signature="4369:4482" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1511866465403" expanded="true" signature="4816:4958" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot_server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DATABASE_EXTERN/DATABASE/Adds/remote_maintenance/robot_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot_server.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/robot_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+              <folding>
+                <element signature="e#687#717#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot_control.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DATABASE_EXTERN/DATABASE/Adds/remote_maintenance/robot_control.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tryz.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/CONTROL/tryz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startShell.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verwaltungsschale/startShell.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="115" lean-forward="false" selection-start-line="19" selection-start-column="115" selection-end-line="19" selection-end-column="115" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Verwaltungsschale/DATABASE/database_parser.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/template_creation.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/newAsset.html" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/HTTPIN/flask_server.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/DATABASE/asset_list.xml" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/header.html" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/DATABASE/data.xml" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/index.html" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPIN/flask_server.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/configuration.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/DATABASE/installed_adds.xml" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/startShell.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py" />
+        <option value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/robot_server.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="121" />
+    <option name="y" value="21" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Verwaltungsschale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Verwaltungsschale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Verwaltungsschale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+              <item name="FUNCTIONALITY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Verwaltungsschale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+              <item name="Verwaltungsschale" type="462c0819:PsiDirectoryNode" />
+              <item name="FUNCTIONALITY" type="462c0819:PsiDirectoryNode" />
+              <item name="remote_maintenance" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Verwaltungsschale/DATABASE" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.robot_server">
+    <configuration name="broker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verwaltungsschale/CONTROL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fernwartungsplattform" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verwaltungsschale/CONTROL/broker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="robot_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fernwartungsplattform" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/robot_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="startShell" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verwaltungsschale" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fernwartungsplattform" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verwaltungsschale/startShell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="tryz (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verwaltungsschale/CONTROL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fernwartungsplattform" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verwaltungsschale/CONTROL/tryz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="tryz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fernwartungsplattform" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.startShell" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tryz" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tryz (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.broker" />
+      <item index="4" class="java.lang.String" itemvalue="Python.robot_server" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.robot_server" />
+        <item index="1" class="java.lang.String" itemvalue="Python.startShell" />
+        <item index="2" class="java.lang.String" itemvalue="Python.broker" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tryz (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tryz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f78dfa-2436-41a8-bc53-2d5fe94f319f" name="Default" comment="" />
+      <created>1501672736507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501672736507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="121" y="21" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23548922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986272" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPIN/flask_server.py</url>
+          <line>11</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/vlacs.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/database_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="183" column="43" lean-forward="true" selection-start-line="183" selection-start-column="43" selection-end-line="183" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/HTTPIN/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/template_creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1511866465403" expanded="true" signature="45:84" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="86:258" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="613:5301" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="692:1785" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="701:1479" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="1802:5301" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="1811:1926" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="1940:5163" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="1953:2034" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2273:4268" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="2290:2347" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2486:2833" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="2507:2572" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2879:3016" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3061:3195" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3240:3372" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3419:3838" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3440:3574" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3607:3764" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3900:4010" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3921:3985" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="4028:4118" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="4352:4797" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="4369:4482" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="4816:4958" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/newAsset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="44" lean-forward="true" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/asset_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="93" lean-forward="false" selection-start-line="100" selection-start-column="93" selection-end-line="100" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/database_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="183" column="43" lean-forward="true" selection-start-line="183" selection-start-column="43" selection-end-line="183" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/HTTPIN/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1511866465403" expanded="true" signature="45:84" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="86:258" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="613:5301" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="692:1785" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="701:1479" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="1802:5301" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="1811:1926" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="1940:5163" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="1953:2034" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2273:4268" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="2290:2347" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2486:2833" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="2507:2572" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2879:3016" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3061:3195" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3240:3372" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3419:3838" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3440:3574" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3607:3764" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3900:4010" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3921:3985" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="4028:4118" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="4352:4797" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="4369:4482" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="4816:4958" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/template_creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/asset_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="43" lean-forward="false" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/database_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/addInstallation.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/newAsset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="49" lean-forward="false" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/control_start.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/static/images/avatar.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/load_add_data.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/assetInstallation.py" />
+    <entry file="file:///usr/local/lib/python3.4/dist-packages/jinja2/environment.py" />
+    <entry file="file:///usr/local/lib/python3.4/dist-packages/flask/templating.py" />
+    <entry file="file://$PROJECT_DIR$/DATABASE_EXTERN/DATABASE/Adds/add_directory.xml" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/addInstallation.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/newAsset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="44" lean-forward="false" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/template_creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/adds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="76" column="20" lean-forward="false" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/database_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="183" column="0" lean-forward="false" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/asset_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/HTTPIN/flask_server.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/TRANSMISSION/HTTPIN/flask_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="80" lean-forward="false" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+          <folding>
+            <element signature="e#289#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/module_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/INTERFACE/asset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="80" lean-forward="false" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/CONTROL/tryz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/CONTROL/broker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#464#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/vlacs/vlacs.py" />
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/DATABASE/installed_adds.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/configuration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/startShell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="115" lean-forward="false" selection-start-line="19" selection-start-column="115" selection-end-line="19" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/GUI/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="93" column="68" lean-forward="false" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
+          <folding>
+            <marker date="1511866465403" expanded="true" signature="45:84" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="86:258" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="613:5301" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="692:1785" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="701:1479" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="1802:5301" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="1811:1926" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="1940:5163" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="1953:2034" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2273:4268" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="2290:2347" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2486:2833" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="2507:2572" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="2879:3016" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3061:3195" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3240:3372" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3419:3838" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3440:3574" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3607:3764" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3900:4010" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="3921:3985" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="4028:4118" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="4352:4797" ph="..." />
+            <marker date="1511866465403" expanded="true" signature="4369:4482" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511866465403" expanded="true" signature="4816:4958" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATABASE_EXTERN/DATABASE/Adds/remote_maintenance/robot_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATABASE_EXTERN/DATABASE/Adds/remote_maintenance/robot_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verwaltungsschale/FUNCTIONALITY/remote_maintenance/robot_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <element signature="e#687#717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Functionality>
+
+  <add id="vlacs_empfaenger">
+    <title>Empfaenger des Visiuell localisation and Control Programm</title>
+    <socket>VLACS_EMPFAENGER</socket>
+    <port>5553</port>
+    <main>vlacs_empfaenger</main>
+    <info>Empfaenger des Visuelles Lokalisierungssystem und Ansteuerung des Roboterarms</info>
+    <template>No_Template_available</template>
+  </add>
+
+  <add id="vlacs">
+    <title>Visiuell localisation and Control</title>
+    <socket>VLACS</socket>
+    <port>5554</port>
+    <main>vlacs</main>
+    <info>Visuelles Lokalisierungssystem und Ansteuerung des Roboterarms</info>
+    <template>adds/vlacs/vlacs_gui.html</template>
+  </add>
+
+  <add id="remote_maintenance">
+    <title>Remote Maintenance </title>
+    <socket>REMOTE_MAINTENANCE</socket>
+    <port>6015</port>
+    <main>robot_server</main>
+    <info>Make the remote control over the internet possible. Required: Robotarm Interface. Required if the robotarm is not connected: Robotarm Dummy</info>
+    <template>http://127.0.0.1:40000</template>
+  </add>
+
+  <add id="api_robotarm">
+    <title>Robotarm Interface</title>
+    <socket>API_ROBOTARM</socket>
+    <port>6002</port>
+    <main>api_robotarm</main>
+    <info>The interface between the Shell and the control of the Robotarm. Needed for Remote Maintenance</info>
+    <template>No_Template_available</template>
+  </add>
+
+  <add id="api_games">
+    <title>Numbergame - Test Add 1</title>
+    <info>Ein einfaches Ratenspiel fuer Zahlen zwischen 0 und 100!</info>
+    <template>adds/api_games/numbergame.html</template>
+    <socket>API_GAMES</socket>
+    <port>6011</port>
+    <main>Numbergame</main>
+  </add>
+
+  <add id="system">
+      <title>System - Test Function</title>
+      <socket>SYSTEM</socket>
+      <port>5558</port>
+      <main>worker</main>
+      <info>System is an testfunction which can reply to requests.</info>
+      <template>No_Template_available</template>
+    </add>
+
+  <add id="test_add">
+      <title>Test Add </title>
+      <socket>TEST_ADD</socket>
+      <port>6016</port>
+      <main>test_add</main>
+      <info>Add structure for testing the installation</info>
+      <template>No_Template_available</template>
+    </add>
+
+    <add id="robotarm_dummy">
+      <title>Robotarm Dummy</title>
+      <info>A replacement for the robotcontrol interface if no robotarm is connected.</info>
+      <template>No_Template_available</template>
+      <socket>ROBOTARM_DUMMY</socket>
+      <port>6010</port>
+      <main>robotarm_dummy</main>
+    </add>
+
+
+</Functionality>
